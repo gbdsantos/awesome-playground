@@ -19,7 +19,9 @@ Repositório centralizador de todos os projetos pessoais e de estudos.
 | Nome | Descrição | 
 |:----|:---------| 
 | :rocket: [Back-end com NodeJS](https://github.com/gbdsantos/bootcamp-gostack-02) |**REST API** feita do zero durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** |
-| :children_crossing: [Front-end com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-02/tree/master/frontend) | Front-end feito durante as aulas do Bootcamp GoStack(F02) [Rocketseat](https://rocketseat.com.br/) utilizando o **ReactJS**. Este projeto é o ***client(front-end)* do projeto Back-end com NodeJS** |
+| :children_crossing: [Front-end com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-02/tree/master/frontend) | Front-end feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o **ReactJS**. Este projeto é o ***client(front-end)* do projeto Back-end com NodeJS** |
+| :iphone: [Mobile com React Native](https://github.com/gbdsantos/bootcamp-gostack-mobile-02/tree/master/mobile) | Mobile feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando **React Native**. Este projeto é o ***mobile* do projeto Back-end com NodeJS** |
+
 
 ### :muscle: Desafios
 
