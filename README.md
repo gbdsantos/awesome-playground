@@ -16,11 +16,14 @@ Repositório centralizador de todos os projetos pessoais e de estudos.
 
 ### Projetos
 
+- Semana 01
+
 | Nome | Descrição | 
 |:----|:---------| 
-| :rocket: [Back-end com NodeJS](https://github.com/gbdsantos/bootcamp-gostack-02) |**REST API** feita do zero durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** |
-| :children_crossing: [Front-end com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-02/tree/master/frontend) | Front-end feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o **ReactJS**. Este projeto é o ***client(front-end)* do projeto Back-end com NodeJS** |
-| :iphone: [Mobile com React Native](https://github.com/gbdsantos/bootcamp-gostack-mobile-02/tree/master/mobile) | Mobile feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando **React Native**. Este projeto é o ***mobile* do projeto Back-end com NodeJS** |
+| :rocket: [Back-end com NodeJS](https://github.com/gbdsantos/bootcamp-gostack-backend-01) |**REST API** feita do zero durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** |
+| :children_crossing: [Front-end com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-01/tree/master/frontend) | Front-end feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o **ReactJS**. Este projeto é o ***client(front-end)* do projeto Back-end com NodeJS** |
+| :iphone: [Mobile com React Native](https://github.com/gbdsantos/bootcamp-gostack-mobile-01/tree/master/mobile) | Mobile feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando **React Native**. Este projeto é o ***mobile* do projeto Back-end com NodeJS** |
+| [Typescript](https://github.com/gbdsantos/bootcamp-gostack-typescript-01) | Introdução ao Typescript feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) |
 
 
 ### :muscle: Desafios
@@ -30,6 +33,7 @@ Repositório centralizador de todos os projetos pessoais e de estudos.
 | [Desafio 01](https://www.notion.so/Cronograma-de-estudos-7d1c5cc9bd884cc8899dea7284539b0a?about:blank) | Desafio que em você deve definir um cronograma de estudo para seguir |
 |  [Desafio 02](https://github.com/gbdsantos/bootcamp-gostack-challenge-02) | Desafio que aborda os **conceitos do NodeJS** e uma arquitetura de sistema RESTful. Este projeto é o ***server*(back-end)**|
 | [Desafio 03](https://github.com/gbdsantos/bootcamp-gostack-challenge-03) | Desafio que aborda os **conceitos do ReactJS**. Este projeto é o ***client*(front-end) do Desafio 02** |
+| [Desafio 04]() | Desafio que aborda os **conceitos do React Native**. Este projeto é o ***mobile*(app) do Desafio 02** |
 
 ## :man_astronaut: Autor
 
