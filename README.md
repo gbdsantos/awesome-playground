@@ -25,6 +25,11 @@ Repositório centralizador de todos os projetos pessoais e de estudos.
 | :iphone: [Mobile com React Native](https://github.com/gbdsantos/bootcamp-gostack-mobile-01/tree/master/mobile) | Mobile feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando **React Native**. Este projeto é o ***mobile* do projeto Back-end com NodeJS** |
 | [Typescript](https://github.com/gbdsantos/bootcamp-gostack-typescript-01) | Introdução ao Typescript feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) |
 
+- Semana 02
+
+| Nome | Descrição | 
+|:----|:---------| 
+| [Primeiro projeto com NodeJS <br /> Iniciando back-end do app](https://github.com/gbdsantos/bootcamp-gostack-backend-02/tree/master/backend) | **REST API** feita durante as aulas do Bootcamp GoStack(F03) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** + **Typescript** |
 
 ### :muscle: Desafios
 
