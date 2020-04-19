@@ -39,6 +39,7 @@ Repositório centralizador de todos os projetos pessoais e de estudos.
 |  [Desafio 02](https://github.com/gbdsantos/bootcamp-gostack-challenge-02) | Desafio que aborda os **conceitos do NodeJS** e uma arquitetura de sistema RESTful. Este projeto é o ***server*(back-end)**|
 | [Desafio 03](https://github.com/gbdsantos/bootcamp-gostack-challenge-03) | Desafio que aborda os **conceitos do ReactJS**. Este projeto é o ***client*(front-end) do Desafio 02** |
 | [Desafio 04](https://github.com/gbdsantos/bootcamp-gostack-challenge-04) | Desafio que aborda os **conceitos do React Native**. Este projeto é o ***mobile*(app) do Desafio 02** |
+| [Desafio 05](https://github.com/gbdsantos/bootcamp-gostack-challenge-05) | Desafio que sobre os **fundamentos do NodeJS**. Uma aplicação que faz a gestão de transações financeiras |
 
 ## :man_astronaut: Autor
 
