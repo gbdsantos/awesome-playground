@@ -1,6 +1,6 @@
-# Awesome Playground <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" alt="Brazilian Fan Parrot" height="28"/>
+# <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" alt="Brazilian Fan Parrot" height="28"/> Awesome Playground 
 
-Repositório centralizador de todos os projetos pessoais e de estudos.
+Repositório com a indexação de todos os projetos pessoais e de estudos.
 
 ## :pushpin: Índice 
 
@@ -31,6 +31,12 @@ Repositório centralizador de todos os projetos pessoais e de estudos.
 |:----|:---------| 
 | [Primeiro projeto com NodeJS <br /> Iniciando back-end do app](https://github.com/gbdsantos/bootcamp-gostack-backend-02/tree/master/backend) | **REST API** feita durante as aulas do Bootcamp GoStack(F03) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** + **Typescript** |
 
+- Semana 03
+
+| Nome | Descrição | 
+|:----|:---------| 
+| :octocat: [Primeiro projeto com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-03/tree/master/frontend) | Aplicação Github Explorer, feita durante as aulas do Bootcamp GoStack(F04) da [Rocketseat](https://rocketseat.com.br/) utilizando ReactJS e Typescript |
+
 ### :muscle: Desafios
 
 | Nome | Descrição | 
@@ -40,6 +46,8 @@ Repositório centralizador de todos os projetos pessoais e de estudos.
 | [Desafio 03](https://github.com/gbdsantos/bootcamp-gostack-challenge-03) | Desafio que aborda os **conceitos do ReactJS**. Este projeto é o ***client*(front-end) do Desafio 02** |
 | [Desafio 04](https://github.com/gbdsantos/bootcamp-gostack-challenge-04) | Desafio que aborda os **conceitos do React Native**. Este projeto é o ***mobile*(app) do Desafio 02** |
 | [Desafio 05](https://github.com/gbdsantos/bootcamp-gostack-challenge-05) | Desafio que sobre os **fundamentos do NodeJS**. Uma aplicação que faz a gestão de transações financeiras |
+| [Desafio 06](https://github.com/gbdsantos/bootcamp-gostack-challenge-06) | Desafio que é a continuação do desafio passado, incluindo o uso de banco de dados(Postgres) com TypeORM e envio de arquivos com o Multer |
+
 
 ## :man_astronaut: Autor
 
