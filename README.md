@@ -35,7 +35,7 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 
 | Nome | Descrição | 
 |:----|:---------| 
-| :octocat: [Primeiro projeto com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-03/tree/master/frontend) | Aplicação Github Explorer, feita durante as aulas do Bootcamp GoStack(F04) da [Rocketseat](https://rocketseat.com.br/) utilizando ReactJS e Typescript |
+| :octopus: [Primeiro projeto com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-03/tree/master/frontend) | Aplicação Github Explorer, feita durante as aulas do Bootcamp GoStack(F04) da [Rocketseat](https://rocketseat.com.br/) utilizando ReactJS e Typescript |
 
 ### :muscle: Desafios
 
@@ -47,6 +47,7 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 | [Desafio 04](https://github.com/gbdsantos/bootcamp-gostack-challenge-04) | Desafio que aborda os **conceitos do React Native**. Este projeto é o ***mobile*(app) do Desafio 02** |
 | [Desafio 05](https://github.com/gbdsantos/bootcamp-gostack-challenge-05) | Desafio que sobre os **fundamentos do NodeJS**. Uma aplicação que faz a gestão de transações financeiras |
 | [Desafio 06](https://github.com/gbdsantos/bootcamp-gostack-challenge-06) | Desafio que é a continuação do desafio passado, incluindo o uso de banco de dados(Postgres) com TypeORM e envio de arquivos com o Multer |
+| [Desafio 07](https://github.com/gbdsantos/bootcamp-gostack-challenge-07) | Desafio fundamentos ReactJS. Front-end da aplicação de gestão de transações financeiras **Go Finances Web** |
 
 
 ## :man_astronaut: Autor
@@ -56,3 +57,4 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 [![github](http://ap.imagensbrasil.org/images/2018/12/10/github-logo-1.png) ](http://www.github.com/gbdsantos)
 [![gitlab](http://ap.imagensbrasil.org/images/2018/12/10/gitlab-32.png)](https://gitlab.com/gbdsantos1)
 [![linkedin](http://ap.imagensbrasil.org/images/2018/12/10/linkedin-1.png)](https://www.linkedin.com/in/gbdsantos/)
+
