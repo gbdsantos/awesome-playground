@@ -36,6 +36,7 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 | Nome | Descrição | 
 |:----|:---------| 
 | :octopus: [Primeiro projeto com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-03/tree/master/frontend) | Aplicação Github Explorer, feita durante as aulas do Bootcamp GoStack(F04) da [Rocketseat](https://rocketseat.com.br/) utilizando ReactJS e Typescript |
+| [Iniciando Front-End Web](https://github.com/gbdsantos/bootcamp-gostack-gobarber-frontend) | **Projeto GoBarber**(*front-end/client*) feito com ReactJS + TypeScript. Na fase 04(02-F04) do Bootcamp GoStack da Rocketseat  |
 
 ### :muscle: Desafios
 
@@ -57,4 +58,6 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 [![github](http://ap.imagensbrasil.org/images/2018/12/10/github-logo-1.png) ](http://www.github.com/gbdsantos)
 [![gitlab](http://ap.imagensbrasil.org/images/2018/12/10/gitlab-32.png)](https://gitlab.com/gbdsantos1)
 [![linkedin](http://ap.imagensbrasil.org/images/2018/12/10/linkedin-1.png)](https://www.linkedin.com/in/gbdsantos/)
+
+
 
