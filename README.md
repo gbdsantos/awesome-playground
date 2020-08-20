@@ -11,15 +11,17 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 
 ##  :rocket: Rocketseat
 
-<h1 align="center">
-    <img alt="GoStack" src="https://i.lensdump.com/i/jCktQQ.png" width="200px" />
-</h1>
-
 ### Code Drops
 
 | Nome | Descrição | 
 |:-----|:----------| 
 | :rocket: [Code/Drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
+
+<br />
+
+<h1 align="center">
+    <img alt="GoStack" src="https://i.lensdump.com/i/jCktQQ.png" width="200px" />
+</h1>
 
 ### Projetos
 
