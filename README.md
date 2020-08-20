@@ -4,10 +4,10 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 
 ## :pushpin: Índice 
 
-  - [Bootcamp GoStack (Rocketseat)](#rocket-rocketseat)
+  - [Rocketseat](#rocket-rocketseat)
     - [Code/Drops](#code-drops)
-    - [Projetos](#projetos)
-    - [Desafios](#muscle-desafios)
+    - [Bootcamp GoStack (Projetos)](#projetos)
+    - [Bootcamp GoStack (Desafios)](#muscle-desafios)
 
 ##  :rocket: Rocketseat
 
