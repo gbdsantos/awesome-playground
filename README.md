@@ -5,6 +5,7 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 ## :pushpin: Índice 
 
   - [Bootcamp GoStack (Rocketseat)](#rocket-rocketseat)
+    - [Code/Drops](#code-drops)
     - [Projetos](#projetos)
     - [Desafios](#muscle-desafios)
 
@@ -14,9 +15,15 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
     <img alt="GoStack" src="https://i.lensdump.com/i/jCktQQ.png" width="200px" />
 </h1>
 
+### Code Drops
+
+| Nome | Descrição | 
+|:-----|:----------| 
+| :rocket: [Code/Drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
+
 ### Projetos
 
-- Semana 01
+- Nível 01
 
 | Nome | Descrição | 
 |:----|:---------| 
@@ -25,13 +32,13 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 | :iphone: [Mobile com React Native](https://github.com/gbdsantos/bootcamp-gostack-mobile-01/tree/master/mobile) | Mobile feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando **React Native**. Este projeto é o ***mobile* do projeto Back-end com NodeJS** |
 | [Typescript](https://github.com/gbdsantos/bootcamp-gostack-typescript-01) | Introdução ao Typescript feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) |
 
-- Semana 02
+- Nível 02
 
 | Nome | Descrição | 
 |:----|:---------| 
 | [Primeiro projeto com NodeJS <br /> Iniciando back-end do app](https://github.com/gbdsantos/bootcamp-gostack-backend-02/tree/master/backend) | **REST API** feita durante as aulas do Bootcamp GoStack(F03) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** + **Typescript** |
 
-- Semana 03
+- Nível 03
 
 | Nome | Descrição | 
 |:----|:---------| 
