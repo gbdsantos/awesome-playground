@@ -5,7 +5,7 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 ## :pushpin: Índice 
 
   - [Rocketseat](#rocket-rocketseat)
-    - [Code/Drops](#code-drops)
+    - [Code/drops](#code-drops)
     - [Bootcamp GoStack (Projetos)](#projetos)
     - [Bootcamp GoStack (Desafios)](#muscle-desafios)
 
@@ -15,12 +15,13 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 
 | Nome | Descrição | 
 |:-----|:----------| 
-| :rocket: [Code/Drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
+| :rocket: [Code/drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
+| :rocket: [Code/drops #95 - Atomic Design e Typescript no React Native](https://github.com/gbdsantos/react-native-atomic-design)| Aplicando *Atomic Design* em um app clone do Instagram |
 
 <br />
 
 <h1 align="center">
-    <img alt="GoStack" src="https://i.lensdump.com/i/jCktQQ.png" width="200px" />
+    <img alt="GoStack" src="https://imagensbrasil.org/images/2021/05/31/bootcamp-header.png" width="200px" />
 </h1>
 
 ### Projetos
@@ -59,14 +60,5 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 | [Desafio 06](https://github.com/gbdsantos/bootcamp-gostack-challenge-06) | Desafio que é a continuação do desafio passado, incluindo o uso de banco de dados(Postgres) com TypeORM e envio de arquivos com o Multer |
 | [Desafio 07](https://github.com/gbdsantos/bootcamp-gostack-challenge-07) | Desafio fundamentos ReactJS. Front-end da aplicação de gestão de transações financeiras **Go Finances Web** |
 
-
-## :man_astronaut: Autor
-
-**Guilherme Bezerra** ©️
-
-[![github](http://ap.imagensbrasil.org/images/2018/12/10/github-logo-1.png) ](http://www.github.com/gbdsantos)
-[![gitlab](http://ap.imagensbrasil.org/images/2018/12/10/gitlab-32.png)](https://gitlab.com/gbdsantos1)
-[![linkedin](http://ap.imagensbrasil.org/images/2018/12/10/linkedin-1.png)](https://www.linkedin.com/in/gbdsantos/)
-
-
-
+---
+Feito com ♥ por :man_astronaut: Guilherme Bezerra :wave: [Entrar em contato!](https://www.linkedin.com/in/gbdsantos/)
