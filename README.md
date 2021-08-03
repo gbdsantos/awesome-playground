@@ -21,12 +21,12 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 <br />
 
 <h1 align="center">
-    <img alt="GoStack" src="https://imagensbrasil.org/images/2021/05/31/bootcamp-header.png" width="200px" />
+    <img alt="GoStack" src="https://imagensbrasil.org/images/2021/08/03/Rocketseat---Bootcamp-GoStack-11-Banner.png" width="200px" />
 </h1>
 
 ### Projetos
 
-- Nível 01
+- **Nível 01**
 
 | Nome | Descrição | 
 |:----|:---------| 
@@ -35,18 +35,24 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 | :iphone: [Mobile com React Native](https://github.com/gbdsantos/bootcamp-gostack-mobile-01/tree/master/mobile) | Mobile feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando **React Native**. Este projeto é o ***mobile* do projeto Back-end com NodeJS** |
 | [Typescript](https://github.com/gbdsantos/bootcamp-gostack-typescript-01) | Introdução ao Typescript feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) |
 
-- Nível 02
+- **Nível 02**
 
 | Nome | Descrição | 
 |:----|:---------| 
 | [Primeiro projeto com NodeJS <br /> Iniciando back-end do app](https://github.com/gbdsantos/bootcamp-gostack-backend-02/tree/master/backend) | **REST API** feita durante as aulas do Bootcamp GoStack(F03) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** + **Typescript** |
 
-- Nível 03
+- **Nível 03**
 
 | Nome | Descrição | 
 |:----|:---------| 
 | :octopus: [Primeiro projeto com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-03/tree/master/frontend) | Aplicação Github Explorer, feita durante as aulas do Bootcamp GoStack(F04) da [Rocketseat](https://rocketseat.com.br/) utilizando ReactJS e Typescript |
-| [Iniciando Front-End Web](https://github.com/gbdsantos/bootcamp-gostack-gobarber-frontend) | **Projeto GoBarber**(*front-end/client*) feito com ReactJS + TypeScript. Na fase 04(02-F04) do Bootcamp GoStack da Rocketseat  |
+| [Iniciando front-end web do app](https://github.com/gbdsantos/reactjs-bootcamp-gostack-11-gobarber) | **Projeto GoBarber**(*front-end/client*) feito com ReactJS + TypeScript. Na fase 04(02-F04) do Bootcamp GoStack da Rocketseat |
+
+- **Nível 05**
+
+| Nome | Descrição | 
+|:----|:---------| 
+| [Finalizando front-end web do app](https://github.com/gbdsantos/reactjs-bootcamp-gostack-11-gobarber) | **Projeto GoBarber**(*front-end/client*) feito com ReactJS + TypeScript. Na fase 05(05-F02) do Bootcamp GoStack da Rocketseat |
 
 ### :muscle: Desafios
 
