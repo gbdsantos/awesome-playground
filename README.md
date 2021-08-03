@@ -21,7 +21,7 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 <br />
 
 <h1 align="center">
-    <img alt="GoStack" src="https://imagensbrasil.org/images/2021/08/03/Rocketseat---Bootcamp-GoStack-11-Banner.png" width="200px" />
+    <img alt="GoStack" src="https://imagensbrasil.org/images/2021/08/03/Rocketseat---Bootcamp-GoStack-11-Banner.png" />
 </h1>
 
 ### Projetos
