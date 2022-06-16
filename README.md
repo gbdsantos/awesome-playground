@@ -9,7 +9,7 @@ Repository with the indexing of all personal and study projects.
     - [Code/drops](#code-drops)
     - [Bootcamp GoStack (Projects)](#projects)
     - [Bootcamp GoStack (Challenges)](#muscle-challenges)
-    - [Ignite](#ignite "Bootcamp program by Rockeseat")
+    - [Ignite](#ignite)
 
 <br />
 
