@@ -5,11 +5,12 @@ Repository with the indexing of all personal and study projects.
 ## :pushpin: Table of contents 
 
   - :school_satchel: [Miscellaneous](#school-satchel-miscellaneous)
-  - [Rocketseat](#rocket-rocketseat)
-    - [Code/drops](#code-drops)
-    - [Bootcamp GoStack (Projects)](#projects)
-    - [Bootcamp GoStack (Challenges)](#muscle-challenges)
-    - [Ignite](#ignite)
+  - [Code/drops](#code-drops)
+  - [GoStack](#)
+    - [Projects](#projects)
+    - [Challenges](#muscle-challenges)
+  - [Ignite](#ignite)
+  - [Next Level Week](#next-level-week)
 
 <br />
 
@@ -19,9 +20,20 @@ Repository with the indexing of all personal and study projects.
 
 <br />
 
-##  :rocket: Rocketseat
+## Code Drops
 
-## <img alt="GoStack" src="./assets/rockeseat-logo-nlw-impulse.svg" style="height:35px; width:35px;"  /> Ignite
+| Name | Description | 
+|:-----|:----------| 
+| :rocket: [Code/drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
+| :rocket: [Code/drops #95 - Atomic Design e Typescript no React Native](https://github.com/gbdsantos/react-native-atomic-design)| Aplicando *Atomic Design* em um app clone do Instagram |
+
+<br />
+
+## Ignite
+
+Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for those who already proficiency with programming.
+
+### **Paths**
 
 <details>
    <summary>ReactJS</summary>
@@ -37,18 +49,28 @@ Repository with the indexing of all personal and study projects.
 
 <br />
 
-### Code Drops
+## <img alt="Next level week logo" src="./assets/rockeseat-logo-nlw-impulse.svg" style="height:35px; width:35px;"  /> Next Level Week
 
-| Name | Description | 
-|:-----|:----------| 
-| :rocket: [Code/drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
-| :rocket: [Code/drops #95 - Atomic Design e Typescript no React Native](https://github.com/gbdsantos/react-native-atomic-design)| Aplicando *Atomic Design* em um app clone do Instagram |
+Next Level Week is an programming event free and totally hands-on by Rocketseat.
+
+<details>
+   <summary>Feedget</summary> 
+
+   Application made during **Next Level Week - Return** event by Rocketseat in 2022.
+
+   - <img alt="Node.js icon" src="./assets/nodejs-logo.png" style="height:20px; width:20px;"  /> [Back-end](https://github.com/gbdsantos/nodejs-rocketseat-nlw-return "Feedget back-end made with Node.js")
+   - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height:20px; width:20px;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-return "Feedget front-end made with ReactJS")
+   - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-return "Feedget mobile made with React Native")
+
+</details>
 
 <br />
 
 <h1 align="center">
     <img alt="Imagem com logo do Bootcamp GoStack 11" src="./assets/rocketseat-bootcamp-gostack-11-banner.png" />
 </h1>
+
+GoStack is bootcamp program that is predecessor of the Ignite.
 
 ### Projects
 
@@ -65,7 +87,6 @@ Repository with the indexing of all personal and study projects.
   | [Typescript](https://github.com/gbdsantos/bootcamp-gostack-typescript-01) | Introdução ao Typescript feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) |
 </details>
 
-
 <details>
    <summary><strong>Level 02</strong></summary> 
   
@@ -75,7 +96,6 @@ Repository with the indexing of all personal and study projects.
   |:---- |:--------- | 
   | [Primeiro projeto com NodeJS <br /> Iniciando back-end do app](https://github.com/gbdsantos/bootcamp-gostack-backend-02/tree/master/backend) | **REST API** feita durante as aulas do Bootcamp GoStack(F03) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** + **Typescript** |
 </details>
-
 
 <details>
    <summary><strong>Level 03</strong></summary> 
