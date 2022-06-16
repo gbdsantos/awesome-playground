@@ -1,13 +1,23 @@
 # <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" alt="Brazilian Fan Parrot" height="28"/> Awesome Playground 
 
-Repositório com a indexação de todos os projetos pessoais e de estudos.
+Repository with the indexing of all personal and study projects.
 
-## :pushpin: Índice 
+## :pushpin: Table of contents 
 
+  - :school_satchel: [Miscellaneous](#school-satchel-miscellaneous)
   - [Rocketseat](#rocket-rocketseat)
     - [Code/drops](#code-drops)
-    - [Bootcamp GoStack (Projetos)](#projetos)
-    - [Bootcamp GoStack (Desafios)](#muscle-desafios)
+    - [Bootcamp GoStack (Projects)](#projects)
+    - [Bootcamp GoStack (Challenges)](#muscle-challenges)
+    - [Ignite](#ignite "Bootcamp program by Rockeseat")
+
+<br />
+
+## :school_satchel: Miscellaneous
+
+- [Definitive Guide to the AWS Certified Developer - Associate Certification Exam :brazil:](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap "Cheatsheet for AWS Certified Developer - Associate Certification Exam made to brazilian community")
+
+<br />
 
 ##  :rocket: Rocketseat
 
@@ -16,20 +26,20 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 <details>
    <summary>ReactJS</summary>
    
-   - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022)
+   - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
 </details>
 
 <details>
    <summary>React Native</summary> 
    
-   - [GoFinances](https://github.com/gbdsantos/react-native-gofinances)
+   - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Finance app")
 </details>
 
 <br />
 
 ### Code Drops
 
-| Nome | Descrição | 
+| Name | Description | 
 |:-----|:----------| 
 | :rocket: [Code/drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
 | :rocket: [Code/drops #95 - Atomic Design e Typescript no React Native](https://github.com/gbdsantos/react-native-atomic-design)| Aplicando *Atomic Design* em um app clone do Instagram |
@@ -40,14 +50,14 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
     <img alt="Imagem com logo do Bootcamp GoStack 11" src="./assets/rocketseat-bootcamp-gostack-11-banner.png" />
 </h1>
 
-### Projetos
+### Projects
 
 <details>
-   <summary><strong>Nível 01</strong></summary> 
+   <summary><strong>Level 01</strong></summary> 
   
   <br />
 
-  | Nome | Descrição | 
+  | Name | Description | 
   |:---- |:--------- | 
   | :rocket: [Back-end com NodeJS](https://github.com/gbdsantos/bootcamp-gostack-backend-01) |**REST API** feita do zero durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** |
   | :children_crossing: [Front-end com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-01/tree/master/frontend) | Front-end feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o **ReactJS**. Este projeto é o ***client(front-end)* do projeto Back-end com NodeJS** |
@@ -57,40 +67,42 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 
 
 <details>
-   <summary><strong>Nível 02</strong></summary> 
+   <summary><strong>Level 02</strong></summary> 
   
   <br />
 
-  | Nome | Descrição | 
+  | Name | Description | 
   |:---- |:--------- | 
   | [Primeiro projeto com NodeJS <br /> Iniciando back-end do app](https://github.com/gbdsantos/bootcamp-gostack-backend-02/tree/master/backend) | **REST API** feita durante as aulas do Bootcamp GoStack(F03) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** + **Typescript** |
 </details>
 
 
 <details>
-   <summary><strong>Nível 03</strong></summary> 
+   <summary><strong>Level 03</strong></summary> 
   
   <br />
 
-  | Nome | Descrição | 
+  | Name | Description | 
   |:---- |:--------- | 
   | :octopus: [Primeiro projeto com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-03/tree/master/frontend) | Aplicação Github Explorer, feita durante as aulas do Bootcamp GoStack(F04) da [Rocketseat](https://rocketseat.com.br/) utilizando ReactJS e Typescript |
   | [Iniciando front-end web do app](https://github.com/gbdsantos/reactjs-bootcamp-gostack-11-gobarber) | **Projeto GoBarber**(*front-end/client*) feito com ReactJS + TypeScript. Na fase 04(02-F04) do Bootcamp GoStack da Rocketseat |
 </details>
 
 <details>
-   <summary><strong>Nível 05</strong></summary> 
+   <summary><strong>Level 05</strong></summary> 
   
   <br />
 
-| Nome | Descrição | 
+| Name | Description | 
 |:---- |:--------- | 
 | [Finalizando front-end web do app](https://github.com/gbdsantos/reactjs-bootcamp-gostack-11-gobarber) | **Projeto GoBarber**(*front-end/client*) feito com ReactJS + TypeScript. Na fase 05(05-F02) do Bootcamp GoStack da Rocketseat |
 </details>
 
-### :muscle: Desafios
+<br />
 
-| Nome | Descrição | 
+### :muscle: Challenges
+
+| Name | Description | 
 |:---- |:--------- | 
 | [Desafio 01](https://www.notion.so/Cronograma-de-estudos-7d1c5cc9bd884cc8899dea7284539b0a?about:blank) | Desafio que em você deve definir um cronograma de estudo para seguir |
 |  [Desafio 02](https://github.com/gbdsantos/bootcamp-gostack-challenge-02) | Desafio que aborda os **conceitos do NodeJS** e uma arquitetura de sistema RESTful. Este projeto é o ***server*(back-end)**|
@@ -104,4 +116,4 @@ Repositório com a indexação de todos os projetos pessoais e de estudos.
 | [Desafio 10](https://github.com/gbdsantos/bootcamp-gostack-challenge-10-gorestaurant) | GoRestaurant Web. Praticando o conceito de CRUD (Create, Read, Update, Delete) em uma aplicação em ReactJS |
 
 ---
-Feito com ♥ por :man_astronaut: Guilherme Bezerra :wave: [Entrar em contato!](https://www.linkedin.com/in/gbdsantos/)
+Made by ♥ por :man_astronaut: Guilherme Bezerra :wave: [Get in touch!](https://www.linkedin.com/in/gbdsantos/)
