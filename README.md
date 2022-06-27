@@ -1,16 +1,36 @@
-# <img src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" alt="Brazilian Fan Parrot" height="28"/> Awesome Playground 
+ <div align="center">
+    <img alt="Brazilian Fan Parrot" height="40" src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" >
+    <h1 align="center">
+      Awesome Playground
+   </h1>
+</div>
+ 
 
-Repository with the indexing of all personal and study projects.
+<h4 align="center">
+   Repository with the indexing of all personal and study projects.
+</h4>
+
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/awesome-playground.svg">
+
+  <a href="https://github.com/gbdsantos/awesome-playground/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gbdsantos/awesome-playground.svg">
+  </a>
+
+  <a href="https://github.com/gbdsantos/awesome-playground/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/gbdsantos/awesome-playground.svg">
+  </a>
+</p>
 
 ## :pushpin: Table of contents 
 
-  - :school_satchel: [Miscellaneous](#school-satchel-miscellaneous)
+  - :school_satchel: [Miscellaneous](#school-satchel-miscellaneous "General repositories")
   - [Code/drops](#code-drops)
-  - [GoStack](#)
+  - [GoStack](# "Bootcamp program by Rocketseat")
     - [Projects](#projects)
     - [Challenges](#muscle-challenges)
-  - [Ignite](#ignite)
-  - [Next Level Week](#next-level-week)
+  - [Ignite](#ignite "Bootcamp program by Rocketseat launched in the year 2022 ")
+  - [Next Level Week](#next-level-week "Programming online event by Rocketseat")
 
 <br />
 
@@ -36,9 +56,10 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
 ### **Paths**
 
 <details>
-   <summary>ReactJS</summary>
+   <summary> ReactJS</summary>
    
    - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
+   - [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
 </details>
 
 <details>
