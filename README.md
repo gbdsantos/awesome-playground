@@ -75,14 +75,21 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
 Next Level Week is an programming event free and totally hands-on by Rocketseat.
 
 <details>
-   <summary>Feedget</summary> 
+   <summary>Edition 08 - Feedget</summary> 
 
    Application made during **Next Level Week - Return** event by Rocketseat in 2022.
 
    - <img alt="Node.js icon" src="./assets/nodejs-logo.png" style="height:20px; width:20px;"  /> [Back-end](https://github.com/gbdsantos/nodejs-rocketseat-nlw-return "Feedget back-end made with Node.js")
    - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height:20px; width:20px;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-return "Feedget front-end made with ReactJS")
    - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-return "Feedget mobile made with React Native")
+</details>
 
+<details>
+  <summary>Edition 09 - eSports </summary> 
+
+   - <img alt="Node.js icon" src="./assets/nodejs-logo.png" style="height:20px; width:20px;"  /> [Back-end](https://github.com/gbdsantos/nodejs-rocketseat-nlw-e-sports "Feedget back-end made with Node.js")
+   - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height:20px; width:20px;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-e-sports "Feedget front-end made with ReactJS")
+   - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-e-sports "Feedget mobile made with React Native")
 </details>
 
 <br />
