@@ -47,28 +47,34 @@
 | :rocket: [Code/drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
 | :rocket: [Code/drops #95 - Atomic Design e Typescript no React Native](https://github.com/gbdsantos/react-native-atomic-design)| Aplicando *Atomic Design* em um app clone do Instagram |
 
-<br />
+<br>
 
-## Ignite
+***
+
+# Ignite
 
 Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for those who already proficiency with programming.
 
 ### **Paths**
 
 <details>
-   <summary> ReactJS</summary>
+   <summary style="display: flex; align-items: center;">
+    <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="padding-right: 4px; height:20px; width:20px;"  />ReactJS</summary>
    
    - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
    - [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
 </details>
 
-<details>
-   <summary>React Native</summary> 
+<details> 
+   <summary style="display: flex; align-items: center;"><img alt="React Native icon" src="./assets/react-native-icon.png" style="padding-right: 4px; height:20px; width:20px;"  /><span>React Native</span></summary> 
    
-   - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Finance app")
+   - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Project 01: Finance app")
+   - [Ignite Teams](https://github.com/gbdsantos/react-native-ignite-teams "Project 02: Ignite Teams")
 </details>
 
-<br />
+<br>
+
+***
 
 ## <img alt="Next level week logo" src="./assets/rockeseat-logo-nlw-impulse.svg" style="height:35px; width:35px;"  /> Next Level Week
 
@@ -87,12 +93,16 @@ Next Level Week is an programming event free and totally hands-on by Rocketseat.
 <details>
   <summary>Edition 09 - eSports </summary> 
 
-   - <img alt="Node.js icon" src="./assets/nodejs-logo.png" style="height:20px; width:20px;"  /> [Back-end](https://github.com/gbdsantos/nodejs-rocketseat-nlw-e-sports "Feedget back-end made with Node.js")
-   - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height:20px; width:20px;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-e-sports "Feedget front-end made with ReactJS")
-   - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-e-sports "Feedget mobile made with React Native")
+   Application that connect gamers made during **Next Level Week - eSports** event by Rocketseat in 09/2022.
+
+   - <img alt="Node.js icon" src="./assets/nodejs-logo.png" style="height:20px; width:20px;"  /> [Back-end](https://github.com/gbdsantos/nodejs-rocketseat-nlw-e-sports "eSports back-end application made with Node.js")
+   - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height:20px; width:20px;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-e-sports "eSports front-end application made with ReactJS")
+   - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-e-sports "eSports mobile app made with React Native")
 </details>
 
-<br />
+<br>
+
+***
 
 <h1 align="center">
     <img alt="Imagem com logo do Bootcamp GoStack 11" src="./assets/rocketseat-bootcamp-gostack-11-banner.png" />
