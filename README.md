@@ -37,6 +37,7 @@
 ## :school_satchel: Miscellaneous
 
 - [Definitive Guide to the AWS Certified Developer - Associate Certification Exam :brazil:](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap "Cheatsheet for AWS Certified Developer - Associate Certification Exam made to brazilian community")
+- [Ignite Lab (3rd edition)](https://github.com/gbdsantos/reactjs-rocketseat-ignite-lab-3-design-system "Create Design System and use Storybook with React.js"): From Figma to React
 
 <br />
 
