@@ -71,6 +71,7 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
    
    - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Project 01: Finance app")
    - [Ignite Teams](https://github.com/gbdsantos/react-native-ignite-teams "Project 02: Ignite Teams")
+   - [Ignite Gym](https://github.com/gbdsantos/react-native-rocketseat-ignite-gym "Project 03: Ignite Gym made with library component NativeBase")
 </details>
 
 <br>
