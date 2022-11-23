@@ -101,6 +101,16 @@ Next Level Week is an programming event free and totally hands-on by Rocketseat.
    - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-e-sports "eSports mobile app made with React Native")
 </details>
 
+<details>
+  <summary>Edition 10 - Copa </summary> 
+
+   Application that create Polls made during **Next Level Week - Copa** event by Rocketseat in 10/2022.
+
+   - <img alt="Node.js icon" src="./assets/nodejs-logo.png" style="height:20px; width:20px;"  /> [Back-end](https://github.com/gbdsantos/nodejs-rocketseat-nlw-copa "Back-end application made with Node.js")
+   - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height:20px; width:20px;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-copa "Front-end application made with ReactJS")
+   - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-copa "Mobile app made with React Native")
+</details>
+
 <br>
 
 ***
