@@ -1,0 +1,16 @@
+/** Hide furigana old styles **/
+.front-card rt { 
+  border: solid 1px lightgray;
+  color: transparent;
+  font-size: 13px;
+}
+
+.night_mode .front-card rt {
+  border: solid 1px #404040;
+}
+
+.front-card:hover rt { 
+  border: solid 1px transparent;   
+  color: inherit;
+  font-size: 13px;
+}

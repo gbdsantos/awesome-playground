@@ -1,0 +1,104 @@
+/** Front Template **/
+<div class="front-card" id="jp">{{furigana:Frase}}</div>
+
+<div class="image">{{Imagem}}</div>
+
+/** Front Template **/
+{{FrontSide}}
+
+{{Audio}}
+
+<hr id="answer">
+
+<div class="back-card">{{Kana}}</div>
+
+<div class="back-card">{{Significado}}</div>
+
+/** Início: Implementação de Mostrar/Ocultar detalhes com Link **/
+<div class="spoiler" id="ID" style="display:none">  
+{{furigana:Anotações}}
+</div> 
+
+<button class="button" type="button"  onclick="
+if
+(document.getElementById('ID') .style.display=='none')
+{document.getElementById('ID') .style.display=''}
+else
+{document.getElementById('ID') .style.display='none'}">
+Anotações
+</button>
+/** Fim: Implementação de Mostrar/Ocultar detalhes com Link **/
+
+<script src="_kanjax_with_koohii.js"></script>
+
+/** https://www.reddit.com/r/Anki/comments/5rg9ke/ **/
+
+/** Styling **/
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono&display=swap');
+
+.card {
+  font-family: "Kosugi Maru", "Utsukushi Mincho", "IBM Plex Mono", Noto Sans, monospace;
+  font-size: 40px;
+  text-align: center;
+  color: black;
+}
+
+.mobile .card { 
+  font-size: 25px; 
+}
+
+.front-card rt { 
+  color: transparent;
+  font-size: 13px;
+}
+
+.front-card:hover rt { 
+  color: inherit;
+}
+
+.back-card {
+  font-size:25px;
+}
+
+.spoiler {  
+  padding-bottom: 20px;  
+}
+
+.cloze {  
+  font-weight: bold; color: blue;  
+}
+
+.anotations { 
+  font-size: 20px 
+}
+
+.button {
+  background-color: #007bff !important;
+  border-color: #007bff;
+  color: #007bff; !important
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.1s;
+  z-index: 2;
+}
+
+.button:hover{
+  background-color: #fff
+  border-color: #007bff;  
+  z-index: 2;
+}
+
+/** Remove color style of kanjax script **/
+.kanjax{ 
+  color: black !important; 
+}
+
+<!---
+/*.win .jp { font-family: "Kosugi Maru", "Kosugi Maru"; }
+.mac .jp { font-family: "honyaji-re", "ヒラギノ明朝 Pro"; }
+.linux .jp { font-family: "Kochi Mincho", "東風明朝"; }
+.mobile .jp { font-family: "Hiragino Mincho ProN"; }*/
+.kanjax_popup { font-family: DejimaMincho; }
+@font-face { font-family: DejimaMincho;  src: url('_dejima-mincho-r227.ttf'); }
+-->
