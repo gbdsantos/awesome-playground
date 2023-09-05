@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.card {
+  background-color: white; 
+  color: black;
+  font-family: Open Sans, "Kosugi Maru", sans-serif;
+  font-size: 30px; /** Default value: 20px **/
+  text-align: center;
+}
+
+.front-card { 
+  font-family: "DFKyoKaSho-W4", Open Sans, "Kosugi Maru", sans-serif;
+  font-size: 40px; /** Prev value: 26px **/  
+}
+
+.front-card rt { 
+  color: transparent;
+  font-size: 13px;
+}
+
+.front-card:hover rt { 
+  color: inherit 
+}
+
+.mobile .card { 
+  font-size: 30px; 
+}
+
+.spacing { 
+  margin-bottom: 20px; 
+}
+
+.text-align { 
+  display: flex;
+  font-family: Open Sans, "Kosugi Maru", sans-serif;
+  align-itens: center;
+  justify-content: center;
+  text-align: justify;
+}
+
+.button {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: #007bff !important;
+  border-color: #007bff;
+  color: #fff;
+}

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.card {
+  background-color: white; 
+  color: black;
+  font-family: Open Sans, Noto Sams, monospace;
+  font-size: 30px; /** Default value: 20px **/
+  text-align: center;
+}
+
+.front-card { 
+  font-family: "DFKyoKaSho-W4", Open Sans, Noto Sams, sans-serif;
+  font-size: 40px; /** Prev value: 26px **/  
+}
+
+.front-card rt { 
+  color: transparent;
+  font-size: 13px;
+}
+
+.front-card:hover rt { 
+  color: inherit 
+}
+
+.anotationsAlign {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.anotations {
+  text-align: justify;
+  max-width: 600px;
+}

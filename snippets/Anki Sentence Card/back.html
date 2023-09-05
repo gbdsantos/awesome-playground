@@ -1,0 +1,26 @@
+{{FrontSide}}
+
+{{Audio}}
+
+<hr id="answer">
+
+<div class="back-card">{{Significado}}</div>
+
+<!--Início: Implementação de Mostrar/Ocultar detalhes com Link-->
+<div class="anotations" id="ID" style="display:none">  
+{{furigana:Anotações}}
+</div> 
+
+<button class="button" type="button" onclick="
+if
+(document.getElementById('ID').style.display=='none')
+{document.getElementById('ID').style.display=''}
+else
+{document.getElementById('ID').style.display='none'}">
+Anotações
+</button>
+<!--Fim: Implementação de Mostrar/Ocultar detalhes com Link-->
+
+<!--- <script src="_kanjax_with_koohii.js"></script> -->
+
+<!-- https://www.reddit.com/r/Anki/comments/5rg9ke/ -->
