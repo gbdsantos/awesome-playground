@@ -3,19 +3,18 @@
     <h1 align="center">
       Awesome Playground
    </h1>
-</div>
- 
+</div> 
 
 <h4 align="center">
    Repository with the indexing of all personal and study projects.
 </h4>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/awesome-playground.svg">
-
   <a href="https://github.com/gbdsantos/awesome-playground/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gbdsantos/awesome-playground.svg">
   </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/awesome-playground.svg">
 
   <a href="https://github.com/gbdsantos/awesome-playground/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/gbdsantos/awesome-playground.svg">
@@ -26,28 +25,29 @@
 
   - :school_satchel: [Miscellaneous](#school-satchel-miscellaneous "General repositories")
   - [Code/drops](#code-drops)
+  - [Ignite](#ignite "Bootcamp program by Rocketseat launched in the year 2022 ")
+  - [Next Level Week](#next-level-week "Programming online event by Rocketseat")
   - [GoStack](# "Bootcamp program by Rocketseat")
     - [Projects](#projects)
     - [Challenges](#muscle-challenges)
-  - [Ignite](#ignite "Bootcamp program by Rocketseat launched in the year 2022 ")
-  - [Next Level Week](#next-level-week "Programming online event by Rocketseat")
 
 <br />
 
 ## :school_satchel: Miscellaneous
 
-- [Definitive Guide to the AWS Certified Developer - Associate Certification Exam :brazil:](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap "Cheatsheet for AWS Certified Developer - Associate Certification Exam made to brazilian community")
-- [Ignite Lab (3rd edition)](https://github.com/gbdsantos/reactjs-rocketseat-ignite-lab-3-design-system "Create Design System and use Storybook with React.js"): From Figma to React
-- [Learning Zone](https://github.com/gbdsantos/learning-zone "Some code snippets and miscellaneous things")
+- [Definitive Guide to the AWS Certified Developer - Associate Certification Exam](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap "Cheatsheet for AWS Certified Developer - Associate Certification Exam made to brazilian community") 🇧🇷
+- [Guia Estudo Japonês](https://github.com/gbdsantos/guia-estudo-japones "Curation of useful resources for the brazilian community of Japanese students") 🇧🇷
+- [Ignite Lab (3rd edition)](https://github.com/gbdsantos/reactjs-rocketseat-ignite-lab-3-design-system "Create Design System and use Storybook with React.js") - From Figma to React
+- [Ignite Lab 4th Edition](https://github.com/gbdsantos/nodejs-notification-service "Notifications microservice with Node.js + NestJS") - Notifications microservice made with Node.js + NestJS
 
 <br />
 
 ## Code Drops
 
-| Name | Description | 
-|:-----|:----------| 
-| :rocket: [Code/drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone)| Clone da tela de login do Skylab com Chakra UI, ReactJS, NextJS |
-| :rocket: [Code/drops #95 - Atomic Design e Typescript no React Native](https://github.com/gbdsantos/react-native-atomic-design)| Aplicando *Atomic Design* em um app clone do Instagram |
+| Name | Description |
+|:-----|:----------|
+| 🚀 [Code/drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone "Skylab landing page clone")| Skylab login screen clone with Chakra UI, ReactJS, NextJS |
+| 🚀 [Code/drops #95 - Atomic Design and Typescript in React Native](https://github.com/gbdsantos/react-native-atomic-design "Atomic Design and Typescript with React Native")| Applying *Atomic Design* in an Instagram clone app |
 
 <br>
 
@@ -61,14 +61,14 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
 
 <details>
    <summary style="display: flex; align-items: center;">
-    <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="padding-right: 4px; height:20px; width:20px;"  />ReactJS</summary>
+    <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="padding-right: 4px; height: 3%; width: 3%;"  />ReactJS</summary>
    
    - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
    - [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
 </details>
 
 <details> 
-   <summary style="display: flex; align-items: center;"><img alt="React Native icon" src="./assets/react-native-icon.png" style="padding-right: 4px; height:20px; width:20px;"  /><span>React Native</span></summary> 
+   <summary style="display: flex; align-items: center;"><img alt="React Native icon" src="./assets/react-native-icon.png" style="padding-right: 4px; height: 3%; width: 3%;"/><span>React Native</span></summary> 
    
    - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Project 01: Finance app")
    - [Ignite Teams](https://github.com/gbdsantos/react-native-ignite-teams "Project 02: Ignite Teams")
@@ -81,16 +81,16 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
 
 ## <img alt="Next level week logo" src="./assets/rockeseat-logo-nlw-impulse.svg" style="height:35px; width:35px;"  /> Next Level Week
 
-Next Level Week is an programming event free and totally hands-on by Rocketseat.
+Next Level Week is an programming event free and **totally hands-on** by Rocketseat.
 
 <details>
    <summary>Edition 08 - Feedget</summary> 
 
    Application made during **Next Level Week - Return** event by Rocketseat in 2022.
 
-   - <img alt="Node.js icon" src="./assets/nodejs-logo.png" style="height:20px; width:20px;"  /> [Back-end](https://github.com/gbdsantos/nodejs-rocketseat-nlw-return "Feedget back-end made with Node.js")
-   - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height:20px; width:20px;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-return "Feedget front-end made with ReactJS")
-   - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-return "Feedget mobile made with React Native")
+   - <img alt="Node.js icon" src="./assets/nodejs-logo.png" style="height: 2%; width: 2%;"  /> [Back-end](https://github.com/gbdsantos/nodejs-rocketseat-nlw-return "Feedget back-end made with Node.js")
+   - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height: 2%; width: 2%;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-return "Feedget front-end made with ReactJS")
+   - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height: 2%; width: 2%;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-return "Feedget mobile made with React Native")
 </details>
 
 <details>
@@ -112,6 +112,11 @@ Next Level Week is an programming event free and totally hands-on by Rocketseat.
    - <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="height:20px; width:20px;"  /> [Front-end](https://github.com/gbdsantos/reactjs-rocketseat-nlw-copa "Front-end application made with ReactJS")
    - <img alt="React Native icon" src="./assets/react-native-icon.png" style="height:20px; width:20px;"  /> [Mobile](https://github.com/gbdsantos/react-native-rocketseat-nlw-copa "Mobile app made with React Native")
 </details>
+
+<br>
+
+- **2023**
+  - [Edition 13 - IA](https://github.com/gbdsantos/next-level-week-13-upload-ai "Upload.ai - A full-stack video transcription application")
 
 <br>
 
@@ -173,18 +178,18 @@ GoStack is bootcamp program that is predecessor of the Ignite.
 
 ### :muscle: Challenges
 
-| Name | Description | 
-|:---- |:--------- | 
-| [Desafio 01](https://www.notion.so/Cronograma-de-estudos-7d1c5cc9bd884cc8899dea7284539b0a?about:blank) | Desafio que em você deve definir um cronograma de estudo para seguir |
-|  [Desafio 02](https://github.com/gbdsantos/bootcamp-gostack-challenge-02) | Desafio que aborda os **conceitos do NodeJS** e uma arquitetura de sistema RESTful. Este projeto é o ***server*(back-end)**|
-| [Desafio 03](https://github.com/gbdsantos/bootcamp-gostack-challenge-03) | Desafio que aborda os **conceitos do ReactJS**. Este projeto é o ***client*(front-end) do Desafio 02** |
-| [Desafio 04](https://github.com/gbdsantos/bootcamp-gostack-challenge-04) | Desafio que aborda os **conceitos do React Native**. Este projeto é o ***mobile*(app) do Desafio 02** |
-| [Desafio 05](https://github.com/gbdsantos/bootcamp-gostack-challenge-05) | Desafio que sobre os **fundamentos do NodeJS**. Uma aplicação que faz a gestão de transações financeiras |
-| [Desafio 06](https://github.com/gbdsantos/bootcamp-gostack-challenge-06) | Desafio que é a continuação do desafio passado, incluindo o uso de banco de dados(Postgres) com TypeORM e envio de arquivos com o Multer |
-| [Desafio 07](https://github.com/gbdsantos/bootcamp-gostack-challenge-07) | Fundamentos ReactJS. Front-end da aplicação de gestão de transações financeiras **Go Finances Web** |
-| [Desafio 08](https://github.com/gbdsantos/bootcamp-gostack-challenge-08) | Fundamentos de React Native. Utilizando React Native com TypeScript utilizando rotas, Async Storage e Context API |
-| [Desafio 09](https://github.com/gbdsantos/bootcamp-gostack-challenge-09-typeorm-relations) | Utilizando NodeJS com TypeScript incluindo banco de dados com TypeORM e relacionamentos ManyToMany |
-| [Desafio 10](https://github.com/gbdsantos/bootcamp-gostack-challenge-10-gorestaurant) | GoRestaurant Web. Praticando o conceito de CRUD (Create, Read, Update, Delete) em uma aplicação em ReactJS |
+| Name | Description |
+|:---- |:--------- |
+| [Challenge 01](https://www.notion.so/Cronograma-de-estudos-7d1c5cc9bd884cc8899dea7284539b0a?about:blank) | Challenge where you should define a study schedule to follow. |
+| [Challenge 02](https://github.com/gbdsantos/bootcamp-gostack-challenge-02) | Challenge that covers **NodeJS concepts** and a REST system architecture. This project is the ***server* (back-end)**. |
+| [Challenge 03](https://github.com/gbdsantos/bootcamp-gostack-challenge-03) | Challenge that covers **ReactJS concepts**. This project is the ***client*(front-end) of Challenge 02**. |
+| [Challenge 04](https://github.com/gbdsantos/bootcamp-gostack-challenge-04) | Challenge that covers **React Native concepts**. This project is the ***mobile*(app) of Challenge 02**. |
+| [Challenge 05](https://github.com/gbdsantos/bootcamp-gostack-challenge-05) | Challenge about **NodeJS fundamentals**. An application that manages financial transactions. |
+| [Challenge 06](https://github.com/gbdsantos/bootcamp-gostack-challenge-06) | Challenge that continues from the previous challenge, including the use of a Postgres database with TypeORM and file uploads with Multer. |
+| [Challenge 07](https://github.com/gbdsantos/bootcamp-gostack-challenge-07) | ReactJS fundamentals. Front-end of the **Go Finances Web** financial transaction management application. |
+| [Challenge 08](https://github.com/gbdsantos/bootcamp-gostack-challenge-08) | React Native fundamentals. Using React Native with TypeScript, including routes, Async Storage, and Context API. |
+| [Challenge 09](https://github.com/gbdsantos/bootcamp-gostack-challenge-09-typeorm-relations) | Using NodeJS with TypeScript, including a database with TypeORM and ManyToMany relationships. |
+| [Challenge 10](https://github.com/gbdsantos/bootcamp-gostack-challenge-10-gorestaurant) | GoRestaurant Web. Practicing the CRUD (Create, Read, Update, Delete) concept in a ReactJS application. |
 
 ---
-Made by ♥ por :man_astronaut: Guilherme Bezerra :wave: [Get in touch!](https://www.linkedin.com/in/gbdsantos/)
+Made with ❤️ by 🧑‍🚀 Guilherme Bezerra 👋 [Get in touch!](https://www.linkedin.com/in/gbdsantos/)
