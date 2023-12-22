@@ -62,14 +62,14 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
 
 <details>
    <summary style="display: flex; align-items: center;">
-    <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="padding-right: 4px; height: 3%; width: 3%;"  />ReactJS</summary>
+    <img alt="ReactJS icon" src="./assets/reactjs-icon.png" style="padding: 8px 4px 8px 0; height:8%; width: 4%;"  />ReactJS</summary>
    
    - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
    - [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
 </details>
 
 <details> 
-   <summary style="display: flex; align-items: center;"><img alt="React Native icon" src="./assets/react-native-icon.png" style="padding-right: 4px; height: 3%; width: 3%;"/><span>React Native</span></summary> 
+   <summary style="display: flex; align-items: center;"><img alt="React Native icon" src="./assets/react-native-icon.png" style="padding: 8px 4px 8px 0; height:8%; width: 4%;"/><span>React Native</span></summary> 
    
    - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Project 01: Finance app")
    - [Ignite Teams](https://github.com/gbdsantos/react-native-ignite-teams "Project 02: Ignite Teams")
