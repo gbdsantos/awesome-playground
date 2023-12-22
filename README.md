@@ -35,6 +35,7 @@
 
 ## :school_satchel: Miscellaneous
 
+- [C Playground](https://github.com/gbdsantos/c-playground "C Playground") - Code from my C studies during university
 - [Definitive Guide to the AWS Certified Developer - Associate Certification Exam](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap "Cheatsheet for AWS Certified Developer - Associate Certification Exam made to brazilian community") 🇧🇷
 - [Guia Estudo Japonês](https://github.com/gbdsantos/guia-estudo-japones "Curation of useful resources for the brazilian community of Japanese students") 🇧🇷
 - [Ignite Lab (3rd edition)](https://github.com/gbdsantos/reactjs-rocketseat-ignite-lab-3-design-system "Create Design System and use Storybook with React.js") - From Figma to React
@@ -73,6 +74,8 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
    - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Project 01: Finance app")
    - [Ignite Teams](https://github.com/gbdsantos/react-native-ignite-teams "Project 02: Ignite Teams")
    - [Ignite Gym](https://github.com/gbdsantos/react-native-rocketseat-ignite-gym "Project 03: Ignite Gym made with library component NativeBase")
+   - [Ignite Fleet](https://github.com/gbdsantos/ignite-fleet "Project 06: Ignite Fleet a track vehicle app") - Ains to learn about Social Login, Maps and with offline first driven development approach made in React Native
+   - [iWeather](https://github.com/gbdsantos/iweather "Project 07: iWeather a climate app") - Focused in learn about automated testing, publishing apps and CI/CD with React Native
 </details>
 
 <br>
