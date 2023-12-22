@@ -40,6 +40,8 @@
 - [Guia Estudo Japonês](https://github.com/gbdsantos/guia-estudo-japones "Curation of useful resources for the brazilian community of Japanese students") 🇧🇷
 - [Ignite Lab (3rd edition)](https://github.com/gbdsantos/reactjs-rocketseat-ignite-lab-3-design-system "Create Design System and use Storybook with React.js") - From Figma to React
 - [Ignite Lab 4th Edition](https://github.com/gbdsantos/nodejs-notification-service "Notifications microservice with Node.js + NestJS") - Notifications microservice made with Node.js + NestJS
+- [Python Playground](https://github.com/gbdsantos/python-playground "Python Playground: algorithms and data structures in Python") - Learning about algorithms and data structures in Python
+- [Recognition faces and objects](https://github.com/gbdsantos/recognition-faces-and-objects "recognition faces and objects") - Computer Graphics course work at the university with Python
 
 <br />
 
@@ -67,14 +69,20 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
    - [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
 </details>
 
+<br>
+
 <details> 
-   <summary>React Native</summary> 
+   <summary>
+    <span style="font-weight: bold;">
+      React Native
+    </span>
+  </summary> 
    
-   - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Project 01: Finance app")
+   - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Project 01: Finance app") - GoFinances is a finance tracking app
    - [Ignite Teams](https://github.com/gbdsantos/react-native-ignite-teams "Project 02: Ignite Teams")
-   - [Ignite Gym](https://github.com/gbdsantos/react-native-rocketseat-ignite-gym "Project 03: Ignite Gym made with library component NativeBase")
-   - [Ignite Fleet](https://github.com/gbdsantos/ignite-fleet "Project 06: Ignite Fleet a track vehicle app") - Ains to learn about Social Login, Maps and with offline first driven development approach made in React Native
-   - [iWeather](https://github.com/gbdsantos/iweather "Project 07: iWeather a climate app") - Focused in learn about automated testing, publishing apps and CI/CD with React Native
+   - [Ignite Gym](https://github.com/gbdsantos/react-native-rocketseat-ignite-gym "Project 03: Ignite Gym made with library component NativeBase") - Exercise guide app made using **component library** NativeBase
+   - [Ignite Fleet](https://github.com/gbdsantos/ignite-fleet "Project 06: Ignite Fleet a track vehicle app") - Ains to learn about **Social Login**, **Maps** and with **offline first driven** development approach
+   - [iWeather](https://github.com/gbdsantos/iweather "Project 07: iWeather a climate app") - Focused in learn about **automated testing**, **publishing apps** and **CI/CD**
 </details>
 
 <br>
