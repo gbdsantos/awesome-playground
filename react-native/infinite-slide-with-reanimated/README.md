@@ -8,6 +8,10 @@
     <img alt="Node.js version" src="https://img.shields.io/badge/node.js-v20.11.0-43853D?style=flat&logo=node.js&logoColor=white&labelColor=43853D&color=5a5a5a">
   </a>
 
+  <a href="https://expo.dev">
+    <img alt="React Native version" src="https://img.shields.io/badge/expo--sdk-v49.0.15-blue?logo=expo&labelColor=20232A&color=5a5a5a">
+  </a>
+
   <a href="https://reactnative.dev">
     <img alt="React Native version" src="https://img.shields.io/badge/react--native-v0.72.6-blue?logo=react&labelColor=20232A&color=5a5a5a">
   </a>
