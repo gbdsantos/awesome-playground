@@ -45,7 +45,11 @@ npx expo start
 ## Executed commands
 
 ```bash
+# install react-native-voice
+npm i @react-native-voice/voice --save
 
+# Eject native folders
+npx expo prebuild --clean
 ```
 
 ---
