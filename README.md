@@ -47,6 +47,7 @@
   - [Ignite Lab 4th Edition](https://github.com/gbdsantos/nodejs-notification-service "Notifications microservice with Node.js + NestJS") - Notifications microservice made with Node.js + NestJS
 - **React Native**
   - [Infinite Slide with Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/infinite-slide-with-reanimated "Infinite Slide with Reanimated using Expo") - Simple infinite slide/carousel using Expo
+  - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo") - Add text in input with voice recognition
 
 <br />
 
