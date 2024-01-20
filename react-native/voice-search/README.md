@@ -48,9 +48,16 @@ npx expo start
 # install react-native-voice
 npm i @react-native-voice/voice --save
 
-# Eject native folders
-npx expo prebuild --clean
+# Convert expo project from managed workflow to bare workflow
+npx expo prebuild
 ```
+
+<br>
+
+## Local environment requirements
+
+- Node.js >=18
+- Java JDK 17
 
 ---
 
