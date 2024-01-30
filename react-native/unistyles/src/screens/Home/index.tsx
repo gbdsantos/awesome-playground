@@ -1,11 +1,14 @@
 import { Text, View, Image } from "react-native"
 
-import { styles } from "./styles"
+import { stylesheet } from "./styles"
 
 import { Button } from "../../components/Button"
 import { Rating } from "../../components/Rating"
+import { useStyles } from "react-native-unistyles"
 
 export function Home() {
+  const { styles } = useStyles(stylesheet)
+
   return (
     <View style={styles.container}>
       <View style={styles.header}>
@@ -29,6 +32,7 @@ export function Home() {
         </View>
 
         <Button title="Confirmar" />
+        {/* <Button title="Confirmar" variant="outline" /> */}
       </View>
     </View>
   )

@@ -1,19 +1,42 @@
-import { StyleSheet } from "react-native"
+import { createStyleSheet } from 'react-native-unistyles'
 
-export const styles = StyleSheet.create({
+export const stylesheet = createStyleSheet(theme => ({
   container: {
     flex: 1,
-    backgroundColor: "#FFF",
+    backgroundColor: {
+      // Using media queries
+      ':w[200, 500]': theme.colors.background,
+      ':w[500, 900]': "red"
+    },
   },
   header: {
     width: "100%",
-    height: 184,
+    height: {
+      // Set element height according of screen size
+      xs: 184,
+      sm: 184,
+      md: 284
+    },
     alignItems: "center",
-    backgroundColor: "#4453B2",
+    backgroundColor: {
+      // Set background color according of screen size
+      xs: theme.colors.primary,
+      sm: theme.colors.primary,
+      md: "red"
+    },
   },
   img: {
-    height: 232,
-    width: 140,
+    // Set image height/width according of screen size
+    height: {
+      xs: 232,
+      sm: 232,
+      md: 332
+    },
+    width: {
+      xs: 140,
+      sm: 140,
+      md: 240
+    },
   },
   content: {
     flex: 1,
@@ -23,7 +46,7 @@ export const styles = StyleSheet.create({
     alignItems: "center",
   },
   text: {
-    color: "#000",
+    color: theme.colors.black,
   },
   title: {
     fontSize: 22,
@@ -35,11 +58,11 @@ export const styles = StyleSheet.create({
     marginTop: 8,
   },
   product: {
-    color: "#685ED9",
+    color: theme.colors.primary,
     fontWeight: "700",
   },
   rating: {
     marginTop: 42,
     flex: 1,
   },
-})
+}))
