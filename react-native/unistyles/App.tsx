@@ -2,6 +2,8 @@ import { StatusBar } from "expo-status-bar"
 
 import { Home } from "./src/screens/Home"
 
+import "./src/libs/unistyles"
+
 export default function App() {
   return (
     <>
