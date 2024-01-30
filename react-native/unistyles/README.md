@@ -16,12 +16,22 @@
     <img alt="React Native version" src="https://img.shields.io/badge/react--native-v0.73.2-blue?logo=react&labelColor=20232A&color=5a5a5a">
   </a>
 
+  <a href="https://reactnativeunistyles.vercel.app">
+    <img alt="Unistyles version" src="https://img.shields.io/badge/unistyles-v2.2.0-blue?logo=react-native-unistyles&labelColor=20232A&color=5a5a5a">
+  </a>
+
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gbdsantos/ignite.svg">
 
   <a href="https://github.com/gbdsantos/ignite/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gbdsantos/ignite.svg">
   </a>
 </p>
+
+## About
+
+Simple app with product review screen. Using [Unistyles](https://reactnativeunistyles.vercel.app "react-native-unistyles - Level up your React Native Stylesheet!") library to create **theme tokens**, **variant components** and use **media queries**.
+
+> ⚠️ Version 2.2.0 of Unistyles **does not support Expo Go**. Is necessary run application directly in emulator or physical device.
 
 ## Getting Start
 
@@ -39,7 +49,13 @@ npx expo start
 
 ```bash
 # Create project
-npx create-expo-app unistyles --template 
+npx create-expo-app unistyles --template
+
+# Convert expo project from managed workflow to bare workflow
+npx expo prebuild
+
+# Install Unistyles
+npm install unistyles
 ```
 
 <br>
