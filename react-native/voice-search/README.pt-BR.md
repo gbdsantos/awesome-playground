@@ -23,12 +23,14 @@
   </a>
 </p>
 
-<details style="text-align: center;">
-<summary><b>Demo</b></summary>
-  <div align="center" style="width: 90%;">
-    <img alt="Demonstração da aplicação Search by Voice in React Native + Expo" src="demo.gif" />
-  </div>
-</details>
+<div align="center">
+  <details>
+  <summary><b>Demo</b></summary>
+    <div style="width: 90%;">
+      <img alt="Demonstração da aplicação Busca por Voz no React Native + Expo" src="demo.gif" />
+    </div>
+  </details>
+</div>
 
 ## Início
 
