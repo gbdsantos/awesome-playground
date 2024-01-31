@@ -31,7 +31,7 @@
   - [Projects](#projects)
   - [Challenges](#muscle-challenges)
 
-<br />
+<br>
 
 ## :school_satchel: Miscellaneous
 
@@ -47,9 +47,10 @@
   - [Ignite Lab 4th Edition](https://github.com/gbdsantos/nodejs-notification-service "Notifications microservice with Node.js + NestJS") - Notifications microservice made with Node.js + NestJS
 - **React Native**
   - [Infinite Slide with Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/infinite-slide-with-reanimated "Infinite Slide with Reanimated using Expo") - Simple infinite slide/carousel using Expo
-  - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo") - Add text in input with voice recognition
+  - [Unistyles](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/unistyles "react-native-unistyles - Level up your React Native Stylesheet!") - Testing Unistyles library to create **theme tokens**, **variant components** and use **media queries**
+  - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo using react-native-voice") - Add text in input with **voice recognition** 
 
-<br />
+<br>
 
 ## Code Drops
 
@@ -66,14 +67,15 @@
 
 Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for those who already proficiency with programming.
 
-### **Paths**
+### Tracks
 
-<details>
-   <summary>ReactJS</summary>
+- **Node.js**
+  - [Node.js Fundamentals](https://github.com/gbdsantos/ignite/tree/master/nodejs/01-nodejs-fundamentals "Register users CRUD application - Node.js Ignite project 01") - A simple User registration CRUD API using pure Node.js and streams concepts
+  - [Creating REST API with Node.js](https://github.com/gbdsantos/ignite/tree/master/nodejs/02-creating-rest-api-with-nodejs "Finance tracker - Node.js Ignite project 02") - A simple finance tracker, essentially a CRUD application, built with **Fastify**
 
-- [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
-- [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
-</details>
+- **ReactJS**
+  - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
+  - [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
 
 <br>
 
