@@ -27,6 +27,23 @@
   </a>
 </p>
 
+<div align="center">
+  <details>
+  <summary><b>Demo</b></summary>
+  <div style="width: 90%;">
+    <img alt="Unistyle library usage application demonstration" src="screenshot-demo.jpg" />
+  </div>
+  </details>
+</div>
+
+<br>
+
+<div align="center">
+  <h4 align="center">read in the language</h4>
+  <a href="https://github.com/gbdsantos/awesome-playground/blob/master/react-native/unistyles/README.pt-BR.md" hreflang="pt-br" alt="pt-br">🇧🇷 portuguese
+  </a>
+</div>
+
 ## About
 
 Simple app with product review screen. Using [Unistyles](https://reactnativeunistyles.vercel.app "react-native-unistyles - Level up your React Native Stylesheet!") library to create **theme tokens**, **variant components** and use **media queries**.

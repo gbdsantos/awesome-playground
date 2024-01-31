@@ -20,12 +20,29 @@
     <img alt="versão do Unistyles" src="https://img.shields.io/badge/unistyles-v2.2.0-blue?logo=react-native-unistyles&labelColor=20232A&color=5a5a5a">
   </a>
 
-  <img alt="Tamanho do repository " src="https://img.shields.io/github/repo-size/gbdsantos/ignite.svg">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/gbdsantos/ignite.svg">
 
   <a href="https://github.com/gbdsantos/ignite/commits/master">
     <img alt="último commit no GitHub" src="https://img.shields.io/github/last-commit/gbdsantos/ignite.svg">
   </a>
 </p>
+
+<div align="center">
+  <details>
+  <summary><b>Demo</b></summary>
+    <div style="width: 90%;">
+      <img alt="Demonstração da aplicação usando a biblioteca Unistyle" src="screenshot-demo.jpg" />
+    </div>
+  </details>
+</div>
+
+<br>
+
+<div align="center">
+  <h4 align="center">leia no idioma</h4>
+  <a href="https://github.com/gbdsantos/awesome-playground/tree/master/react-native/unistyles" hreflang="en-us" alt="en-us">🇺🇸 inglês
+  </a>
+</div>
 
 ## Sobre
 
