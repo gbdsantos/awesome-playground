@@ -46,9 +46,10 @@
   - [Brain Agriculture Challenge](https://github.com/gbdsantos/brain-agriculture-challenge "Brain Agriculture Challenge with Express.js") - CRUD application is that a rural platform for managing rural producers made using Express.js, PostgreSQL, Prisma, TypeScript and Vitest
   - [Ignite Lab 4th Edition](https://github.com/gbdsantos/nodejs-notification-service "Notifications microservice with Node.js + NestJS") - Notifications microservice made with Node.js + NestJS
 - **React Native**
+  - [Bottom Sheet using GestureHandler + Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/bottom-sheet "Animated bottom sheet modal with Gesture Handler + Reanimated")
   - [Infinite Slide with Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/infinite-slide-with-reanimated "Infinite Slide with Reanimated using Expo") - Simple infinite slide/carousel using Expo
   - [Unistyles](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/unistyles "react-native-unistyles - Level up your React Native Stylesheet!") - Testing Unistyles library to create **theme tokens**, **variant components** and use **media queries**
-  - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo using react-native-voice") - Add text in input with **voice recognition** 
+  - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo using react-native-voice") - Add text in input with **voice recognition**
 
 <br>
 
@@ -79,13 +80,13 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
 
 <br>
 
-<details> 
+<details>
    <summary>
     <span style="font-weight: bold;">
       React Native
     </span>
-  </summary> 
-   
+  </summary>
+
    - [GoFinances](https://github.com/gbdsantos/react-native-gofinances "Project 01: Finance app") - GoFinances is a finance tracking app
    - [Ignite Teams](https://github.com/gbdsantos/react-native-ignite-teams "Project 02: Ignite Teams")
    - [Ignite Gym](https://github.com/gbdsantos/react-native-rocketseat-ignite-gym "Project 03: Ignite Gym made with library component NativeBase") - Exercise guide app made using **component library** NativeBase
@@ -149,8 +150,8 @@ GoStack is bootcamp program that is predecessor of the Ignite.
 ### Projects
 
 <details>
-   <summary><strong>Level 01</strong></summary> 
-  
+   <summary><strong>Level 01</strong></summary>
+
   <br />
 
 | Name                                                                                                                        | Description                                                                                                                                                                                             |
@@ -163,8 +164,8 @@ GoStack is bootcamp program that is predecessor of the Ignite.
 </details>
 
 <details>
-   <summary><strong>Level 02</strong></summary> 
-  
+   <summary><strong>Level 02</strong></summary>
+
   <br />
 
 | Name                                                                                                                                         | Description                                                                                                                                                            |
@@ -174,8 +175,8 @@ GoStack is bootcamp program that is predecessor of the Ignite.
 </details>
 
 <details>
-   <summary><strong>Level 03</strong></summary> 
-  
+   <summary><strong>Level 03</strong></summary>
+
   <br />
 
 | Name                                                                                                                     | Description                                                                                                                                            |
@@ -186,8 +187,8 @@ GoStack is bootcamp program that is predecessor of the Ignite.
 </details>
 
 <details>
-   <summary><strong>Level 05</strong></summary> 
-  
+   <summary><strong>Level 05</strong></summary>
+
   <br />
 
 | Name                                                                                                  | Description                                                                                                                   |
