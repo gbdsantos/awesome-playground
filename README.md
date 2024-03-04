@@ -44,24 +44,16 @@
 - [Recognition faces and objects](https://github.com/gbdsantos/recognition-faces-and-objects "recognition faces and objects") - Computer Graphics course work at the university with Python
 - **Node.js**
   - [Brain Agriculture Challenge](https://github.com/gbdsantos/brain-agriculture-challenge "Brain Agriculture Challenge with Express.js") - CRUD application is that a rural platform for managing rural producers made using Express.js, PostgreSQL, Prisma, TypeScript and Vitest
-  - [Ignite Lab 4th Edition](https://github.com/gbdsantos/nodejs-notification-service "Notifications microservice with Node.js + NestJS") - Notifications microservice made with Node.js + NestJS
+  - [Polls](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/server "Polls system using Node.js, Postgres, Redis, TypeScript, and WebSockets. Development during 14ª edition Next Nevel Week - Expert event.") - Polls system using Node.js, Postgres, Redis, TypeScript, and WebSockets
 - **React Native**
   - [Bottom Sheet using GestureHandler + Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/bottom-sheet "Animated bottom sheet modal with Gesture Handler + Reanimated")
   - [Infinite Slide with Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/infinite-slide-with-reanimated "Infinite Slide with Reanimated using Expo") - Simple infinite slide/carousel using Expo
+  - [Simple Delivery App](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/mobile "A simple food delivery mobile app. Development during 14ª edition Next Nevel Week - Expert event.")
   - [Unistyles](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/unistyles "react-native-unistyles - Level up your React Native Stylesheet!") - Testing Unistyles library to create **theme tokens**, **variant components** and use **media queries**
   - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo using react-native-voice") - Add text in input with **voice recognition**
-
-<br>
-
-## Code Drops
-
-| Name                                                                                                                                                                         | Description                                               |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- |
-| 🚀 [Code/drops #50](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone "Skylab landing page clone")                                                              | Skylab login screen clone with Chakra UI, ReactJS, NextJS |
-| 🚀 [Code/drops #95 - Atomic Design and Typescript in React Native](https://github.com/gbdsantos/react-native-atomic-design "Atomic Design and Typescript with React Native") | Applying _Atomic Design_ in an Instagram clone app        |
-
-<br>
-
+- **ReactJS**
+  - [Login page](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone "Skylab landing page clone - Code/drops #50")  - Skylab login screen clone with Chakra UI, ReactJS, **NextJS**
+  - [Note-taking application](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/web "A note-taking application that allows you to save notes through voice, meaning it can transcribe audio into text. Development during 14ª edition Next Nevel Week - Expert event.") - A note-taking application that allows you to save notes through voice, meaning it can transcribe audio into text with **radix-iu** and **tailwindcss**
 ---
 
 # Ignite
@@ -138,81 +130,6 @@ Application that create Polls made during **Next Level Week - Copa** event by Ro
   - [Edition 13 - IA](https://github.com/gbdsantos/next-level-week-13-upload-ai "Upload.ai - A full-stack video transcription application")
 
 <br>
-
----
-
-<h1 align="center">
-    <img alt="Imagem com logo do Bootcamp GoStack 11" src="./assets/rocketseat-bootcamp-gostack-11-banner.png" />
-</h1>
-
-GoStack is bootcamp program that is predecessor of the Ignite.
-
-### Projects
-
-<details>
-   <summary><strong>Level 01</strong></summary>
-
-  <br />
-
-| Name                                                                                                                        | Description                                                                                                                                                                                             |
-| :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| :rocket: [Back-end com NodeJS](https://github.com/gbdsantos/bootcamp-gostack-backend-01)                                    | **REST API** feita do zero durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS**                                           |
-| :children_crossing: [Front-end com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-01/tree/master/frontend) | Front-end feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando o **ReactJS**. Este projeto é o **_client(front-end)_ do projeto Back-end com NodeJS** |
-| :iphone: [Mobile com React Native](https://github.com/gbdsantos/bootcamp-gostack-mobile-01/tree/master/mobile)              | Mobile feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/) utilizando **React Native**. Este projeto é o **_mobile_ do projeto Back-end com NodeJS**            |
-| [Typescript](https://github.com/gbdsantos/bootcamp-gostack-typescript-01)                                                   | Introdução ao Typescript feito durante as aulas do Bootcamp GoStack(F02) da [Rocketseat](https://rocketseat.com.br/)                                                                                    |
-
-</details>
-
-<details>
-   <summary><strong>Level 02</strong></summary>
-
-  <br />
-
-| Name                                                                                                                                         | Description                                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Primeiro projeto com NodeJS <br /> Iniciando back-end do app](https://github.com/gbdsantos/bootcamp-gostack-backend-02/tree/master/backend) | **REST API** feita durante as aulas do Bootcamp GoStack(F03) da [Rocketseat](https://rocketseat.com.br/) utilizando o framework Express em **NodeJS** + **Typescript** |
-
-</details>
-
-<details>
-   <summary><strong>Level 03</strong></summary>
-
-  <br />
-
-| Name                                                                                                                     | Description                                                                                                                                            |
-| :----------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| :octopus: [Primeiro projeto com ReactJS](https://github.com/gbdsantos/bootcamp-gostack-frontend-03/tree/master/frontend) | Aplicação Github Explorer, feita durante as aulas do Bootcamp GoStack(F04) da [Rocketseat](https://rocketseat.com.br/) utilizando ReactJS e Typescript |
-| [Iniciando front-end web do app](https://github.com/gbdsantos/reactjs-bootcamp-gostack-11-gobarber)                      | **Projeto GoBarber**(_front-end/client_) feito com ReactJS + TypeScript. Na fase 04(02-F04) do Bootcamp GoStack da Rocketseat                          |
-
-</details>
-
-<details>
-   <summary><strong>Level 05</strong></summary>
-
-  <br />
-
-| Name                                                                                                  | Description                                                                                                                   |
-| :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
-| [Finalizando front-end web do app](https://github.com/gbdsantos/reactjs-bootcamp-gostack-11-gobarber) | **Projeto GoBarber**(_front-end/client_) feito com ReactJS + TypeScript. Na fase 05(05-F02) do Bootcamp GoStack da Rocketseat |
-
-</details>
-
-<br />
-
-### :muscle: Challenges
-
-| Name                                                                                                     | Description                                                                                                                               |
-| :------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| [Challenge 01](https://www.notion.so/Cronograma-de-estudos-7d1c5cc9bd884cc8899dea7284539b0a?about:blank) | Challenge where you should define a study schedule to follow.                                                                             |
-| [Challenge 02](https://github.com/gbdsantos/bootcamp-gostack-challenge-02)                               | Challenge that covers **NodeJS concepts** and a REST system architecture. This project is the **_server_ (back-end)**.                    |
-| [Challenge 03](https://github.com/gbdsantos/bootcamp-gostack-challenge-03)                               | Challenge that covers **ReactJS concepts**. This project is the **_client_(front-end) of Challenge 02**.                                  |
-| [Challenge 04](https://github.com/gbdsantos/bootcamp-gostack-challenge-04)                               | Challenge that covers **React Native concepts**. This project is the **_mobile_(app) of Challenge 02**.                                   |
-| [Challenge 05](https://github.com/gbdsantos/bootcamp-gostack-challenge-05)                               | Challenge about **NodeJS fundamentals**. An application that manages financial transactions.                                              |
-| [Challenge 06](https://github.com/gbdsantos/bootcamp-gostack-challenge-06)                               | Challenge that continues from the previous challenge, including the use of a Postgres database with TypeORM and file uploads with Multer. |
-| [Challenge 07](https://github.com/gbdsantos/bootcamp-gostack-challenge-07)                               | ReactJS fundamentals. Front-end of the **Go Finances Web** financial transaction management application.                                  |
-| [Challenge 08](https://github.com/gbdsantos/bootcamp-gostack-challenge-08)                               | React Native fundamentals. Using React Native with TypeScript, including routes, Async Storage, and Context API.                          |
-| [Challenge 09](https://github.com/gbdsantos/bootcamp-gostack-challenge-09-typeorm-relations)             | Using NodeJS with TypeScript, including a database with TypeORM and ManyToMany relationships.                                             |
-| [Challenge 10](https://github.com/gbdsantos/bootcamp-gostack-challenge-10-gorestaurant)                  | GoRestaurant Web. Practicing the CRUD (Create, Read, Update, Delete) concept in a ReactJS application.                                    |
 
 ---
 
