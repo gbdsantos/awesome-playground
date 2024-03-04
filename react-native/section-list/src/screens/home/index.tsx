@@ -2,7 +2,7 @@ import { useRef, useState } from "react"
 import { FlatList, SectionList, Text, View } from "react-native"
 
 import { styles } from "./styles"
-import { CATEGORIES, PRODUCTS } from "@utils/DATA"
+import { CATEGORIES, PRODUCTS } from "@/utils/data"
 
 import { Product } from "@/components/product"
 import { Category } from "@/components/category"

@@ -15,8 +15,12 @@ const PRODUCTS = [
     title: "Sobremesas",
     data: Array.from({ length: 7 }, (_, index) => String(index))
   },
+  {
+    title: "Bebidas",
+    data: Array.from({ length: 5 }, (_, index) => String(index))
+  },
 ]
 
 const CATEGORIES = PRODUCTS.map((item) => item.title)
 
-export { CATEGORIES, PRODUCTS }
+export { PRODUCTS, CATEGORIES }
