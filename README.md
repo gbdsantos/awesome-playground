@@ -21,18 +21,6 @@
   </a>
 </p>
 
-## :pushpin: Table of contents
-
-- :school_satchel: [Miscellaneous](#school-satchel-miscellaneous "General repositories")
-- [Code/drops](#code-drops)
-- [Ignite](#ignite "Bootcamp program by Rocketseat launched in the year 2022 ")
-- [Next Level Week](#next-level-week "Programming online event by Rocketseat")
-- [GoStack](# "Bootcamp program by Rocketseat")
-  - [Projects](#projects)
-  - [Challenges](#muscle-challenges)
-
-<br>
-
 ## :school_satchel: Miscellaneous
 
 - [C Playground](https://github.com/gbdsantos/c-playground "C Playground") - Code from my C studies during university
