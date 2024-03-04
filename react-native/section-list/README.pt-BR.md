@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://expo.dev">
-    <img alt="versão do Expo SDK" src="https://img.shields.io/badge/expo--sdk-v50.0.5-blue?logo=expo&labelColor=20232A&color=5a5a5a">
+    <img alt="versão do Expo SDK" src="https://img.shields.io/badge/expo--sdk-v50.0.3-blue?logo=expo&labelColor=20232A&color=5a5a5a">
   </a>
 
   <a href="https://reactnative.dev">
@@ -27,7 +27,7 @@
   <details>
   <summary><b>Demo</b></summary>
     <div style="width: 90%;">
-      <img alt="Demonstração da aplicação usando as bibliotecas GestureHandler e Reanimated" src="demo.gif" />
+      <img alt="Demonstração da aplicação com lista de seções com rolagem dinâmica" src="demo.gif" />
     </div>
   </details>
 </div>
@@ -36,7 +36,7 @@
 
 <div align="center">
   <h4 align="center">leia no idioma</h4>
-  <a href="https://github.com/gbdsantos/awesome-playground/tree/master/react-native/bottom-sheet" hreflang="en-us" alt="en-us">🇺🇸 inglês
+  <a href="https://github.com/gbdsantos/awesome-playground/tree/master/react-native/section-list" hreflang="en-us" alt="en-us">🇺🇸 inglês
   </a>
 </div>
 
@@ -45,8 +45,6 @@
 Navegar pelas categorias de uma *SectionList* interagindo atráves de botões.
 Aplicativo que usa os componentes **FlatList** e **SectionList** para exibir um scroll horizontal de categorias e por cada categoria é existe uma seção de produtos. Muito comum de ver em apps de delivery.
 É feita a rolagem dinamicamente para a seção de produtos da categoria correspondente selecionada pelo usuário.
-
-Usando as bibliotecas [GestureHandler](https://docs.expo.dev/versions/latest/sdk/gesture-handler "Expo - GestureHandler") e [Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated "Expo - Reanimated") para criar uma **Bottom Sheet animado**.
 
 ## Início
 
@@ -64,7 +62,7 @@ npx expo start
 
 ```bash
 # Criar projeto
-npx create-expo-app unistyles --template
+npx create-expo-app section-list --template
 ```
 
 <br>
@@ -76,4 +74,4 @@ npx create-expo-app unistyles --template
 
 ---
 
-Feito com ♥ por Guilherme Bezerra 👋 [Entre em contato!](https://www.linkedin.com/in/gbdsantos "LinkedIn - Guilherme Bezerra")
+Feito com ❤️ por Guilherme Bezerra 👋 [Entre em contato!](https://www.linkedin.com/in/gbdsantos "LinkedIn - Guilherme Bezerra")
