@@ -1,7 +1,9 @@
 import { useState } from 'react'
-import { ScrollView } from 'react-native'
+import { Alert, ScrollView } from 'react-native'
+import { router } from 'expo-router'
 
 import { Ingredient } from '../ingredient'
+import { BottomSheet } from '../bottom-sheet'
 
 import { styles } from './styles'
 
@@ -16,6 +18,21 @@ export function Ingredients() {
 
     setIsSelected((state) => [...state, value])
     console.log(isSelected)
+  }
+
+  function handleClearSelected() {
+    Alert.alert(
+      'Limpar',
+      'Deseja limpar tudo',
+      [
+        { text: "Não", style: "cancel" },
+        { text: "Sim", onPress: () => setIsSelected([]) }
+      ]
+    )
+  }
+
+  function handleSearch() {
+    router.navigate("/recipes/")
   }
 
   return (
@@ -33,6 +50,16 @@ export function Ingredients() {
             selected={isSelected.includes(index)}
           />
         ))
+      }
+
+      {
+        isSelected.length > 0 && (
+          <BottomSheet
+            quantity={isSelected.length}
+            onClear={handleClearSelected}
+            onSearch={handleSearch}
+          />
+        )
       }
     </ScrollView>
   );
