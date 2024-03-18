@@ -3,7 +3,7 @@ import {
   Text,
   View
 } from 'react-native';
-import { router } from 'expo-router';
+import { router, useLocalSearchParams } from 'expo-router';
 
 import { Recipe } from '@/components/recipe';
 
@@ -11,7 +11,13 @@ import { styles } from './styles';
 import { MaterialIcons } from '@expo/vector-icons';
 import { Ingredients } from '@/components/ingredients';
 
-export default function Recipes(){
+export default function Recipes() {
+  const params = useLocalSearchParams<{ ingredientsIds: string }>()
+  console.warn(params)
+
+  const ingredientsIds = params.ingredientsIds.split(',')
+
+
   return (
     <View style={styles.container}>
       <View style={styles.header}>

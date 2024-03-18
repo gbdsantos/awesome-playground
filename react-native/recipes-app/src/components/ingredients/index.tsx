@@ -35,7 +35,7 @@ export function Ingredients() {
   }
 
   function handleSearch() {
-    router.navigate("/recipes/")
+    router.navigate("/recipes/" + isSelected)
   }
 
   useEffect(() => {
