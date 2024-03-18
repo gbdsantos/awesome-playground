@@ -5,7 +5,7 @@ export async function findAll() {
     .from("ingredients")
     .select()
     .order("name")
-    .returns<{ ingredients: IngredientResponse }[]>()
+    .returns<IngredientResponse[]>()
 
-  return data
+  return data ?? []
 }
