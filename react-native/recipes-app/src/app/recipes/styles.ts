@@ -20,5 +20,11 @@ export const styles = StyleSheet.create({
   },
   recipesContent: {
     gap: 16
+  },
+  empty: {
+    alignSelf: "center",
+    color: theme.colors.gray_400,
+    fontFamily: theme.fonts.family.regular,
+    fontSize: theme.fonts.size.body.md
   }
 });

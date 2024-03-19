@@ -44,6 +44,11 @@ export default function Recipes() {
         contentContainerStyle={styles.recipesContent}
         data={recipes}
         keyExtractor={item => item.id}
+        ListEmptyComponent={() => (
+          <Text style={styles.empty}>
+            Nenhuma receita encontrada. Escolha outros ingredientes
+          </Text>
+        )}
         numColumns={2}
         renderItem={({ item }) => <Recipe recipe={item} onPress={() => router.navigate("/recipe/" + item.id)} />}
         showsVerticalScrollIndicator={false}
