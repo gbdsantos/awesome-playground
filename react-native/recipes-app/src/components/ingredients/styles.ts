@@ -6,5 +6,9 @@ export const styles = StyleSheet.create({
     flexWrap: "wrap",
     gap: 4,
     paddingBottom: 200,
+  },
+  ingredientsContent: {
+    gap: 12,
+    paddingHorizontal: 32,
   }
 });

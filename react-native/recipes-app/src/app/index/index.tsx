@@ -1,13 +1,49 @@
-import {
-  Text,
-  View
-} from 'react-native'
+import { useEffect, useState } from "react"
+import { View, Text, ScrollView, Alert } from "react-native"
+import { router } from "expo-router"
 
-import { Ingredients } from '@/components/ingredients'
+import { BottomSheet } from "@/components/bottom-sheet"
+import { Ingredient } from "@/components/ingredient"
+import { Loading } from "@/components/loading"
 
-import { styles } from './styles'
+import { services } from "@/services"
+import { styles } from "./styles"
 
-export default function Index() {
+export default function Home() {
+  const [isLoading, setIsLoading] = useState(true)
+  const [selected, setSelected] = useState<string[]>([])
+  const [ingredients, setIngredients] = useState<IngredientResponse[]>([])
+
+  function handleToggleSelected(value: string) {
+    if (selected.includes(value)) {
+      return setSelected((state) => state.filter((item) => item !== value))
+    }
+    console.log(ingredients)
+    setSelected((state) => [...state, value])
+  }
+
+  function handleClearSelected() {
+    Alert.alert("Limpar", "Deseja limpar tudo?", [
+      { text: "Não", style: "cancel" },
+      { text: "Sim", onPress: () => setSelected([]) },
+    ])
+  }
+
+  function handleSearch() {
+    router.navigate("/recipes/" + selected)
+  }
+
+  useEffect(() => {
+    services.ingredients
+      .findAll()
+      .then(setIngredients)
+      .finally(() => setIsLoading(false))
+  }, [])
+
+  if (isLoading) {
+    return <Loading />
+  }
+
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
@@ -16,12 +52,31 @@ export default function Index() {
       </Text>
 
       <Text style={styles.message}>
-        Descubra as receitas baseadas nos produtos que você escolheu
+        Descubra receitas baseadas nos produtos que você escolheu.
       </Text>
 
-      <Ingredients
-        name="Tomate"
-      />
+      <ScrollView
+        contentContainerStyle={styles.ingredient}
+        showsVerticalScrollIndicator={false}
+      >
+        {ingredients.map((ingredient) => (
+          <Ingredient
+            key={ingredient.id}
+            name={ingredient.name}
+            image={`${services.storage.imagePath}/${ingredient.image}`}
+            selected={selected.includes(ingredient.id)}
+            onPress={() => handleToggleSelected(ingredient.id)}
+          />
+        ))}
+      </ScrollView>
+
+      {selected.length > 0 && (
+        <BottomSheet
+          quantity={selected.length}
+          onClear={handleClearSelected}
+          onSearch={handleSearch}
+        />
+      )}
     </View>
-  );
+  )
 }
