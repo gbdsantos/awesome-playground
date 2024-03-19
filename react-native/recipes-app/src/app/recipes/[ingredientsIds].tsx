@@ -16,12 +16,18 @@ import { services } from '@/services';
 
 export default function Recipes() {
   const [ingredients, setIngredients] = useState<IngredientResponse[]>([])
+  const [recipes, setRecipes] = useState<RecipeResponse[]>([])
+
   const params = useLocalSearchParams<{ ingredientsIds: string }>()
 
   const ingredientsIds = params.ingredientsIds.split(',')
 
   useEffect(() => {
     services.ingredients.findByIds(ingredientsIds).then(setIngredients)
+  }, [])
+
+  useEffect(() => {
+    services.recipes.findByIngredientsIds(ingredientsIds).then(setRecipes)
   }, [])
 
   return (
@@ -34,9 +40,14 @@ export default function Recipes() {
       <Ingredients ingredients={ingredients} />
 
       <FlatList
-        data={["1"]}
-        keyExtractor={item => item}
-        renderItem={() => <Recipe recipe={{ name: "Omelete", image: "https://static.itdg.com.br/images/360-240/b7fbdbc168198caec6673ff663bcef66/322150-original.jpg", minutes: 10 }} />}
+        columnWrapperStyle={{ gap: 16 }}
+        contentContainerStyle={styles.recipesContent}
+        data={recipes}
+        keyExtractor={item => item.id}
+        numColumns={2}
+        renderItem={({ item }) => <Recipe recipe={item} />}
+        showsVerticalScrollIndicator={false}
+        style={styles.recipes}
       />
     </View>
   );
