@@ -36,6 +36,7 @@
 - **React Native**
   - [Bottom Sheet using GestureHandler + Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/bottom-sheet "Animated bottom sheet modal with Gesture Handler + Reanimated")
   - [Infinite Slide with Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/infinite-slide-with-reanimated "Infinite Slide with Reanimated using Expo") - Simple infinite slide/carousel using Expo
+  - [Recipes app](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/recipes-app "Recipes app using Expo + Expo Router") - Recipe application, where recipe options are listed according to the selected ingredients
   - [Simple Delivery App](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/mobile "A simple food delivery mobile app. Development during 14ª edition Next Nevel Week - Expert event.")
   - [Unistyles](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/unistyles "react-native-unistyles - Level up your React Native Stylesheet!") - Testing Unistyles library to create **theme tokens**, **variant components** and use **media queries**
   - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo using react-native-voice") - Add text in input with **voice recognition**
