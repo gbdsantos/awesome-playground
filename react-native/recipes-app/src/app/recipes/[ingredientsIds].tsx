@@ -45,7 +45,7 @@ export default function Recipes() {
         data={recipes}
         keyExtractor={item => item.id}
         numColumns={2}
-        renderItem={({ item }) => <Recipe recipe={item} />}
+        renderItem={({ item }) => <Recipe recipe={item} onPress={() => router.navigate("/recipe/" + item.id)} />}
         showsVerticalScrollIndicator={false}
         style={styles.recipes}
       />
