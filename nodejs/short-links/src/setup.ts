@@ -5,7 +5,7 @@ async function setup() {
     CREATE TABLE IF NOT EXISTS short_links (
       id SERIAL PRIMARY KEY,
       code TEXT UNIQUE,
-      original_text TEXT,
+      original_url TEXT,
       created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     )
   `
