@@ -36,7 +36,7 @@
 - **React Native**
   - [Bottom Sheet using GestureHandler + Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/bottom-sheet "Animated bottom sheet modal with Gesture Handler + Reanimated")
   - [Infinite Slide with Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/infinite-slide-with-reanimated "Infinite Slide with Reanimated using Expo") - Simple infinite slide/carousel using Expo
-  - [Recipes app](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/recipes-app "Recipes app using Expo + Expo Router") - Recipe application, where recipe options are listed according to the selected ingredients
+  - [Recipes app](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/recipes-app "Recipes app using Expo, Expo Router and Supabase") - Recipe application, where recipe options are listed according to the selected ingredients using **Supabase**
   - [Simple Delivery App](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/mobile "A simple food delivery mobile app. Development during 14ª edition Next Nevel Week - Expert event.")
   - [Unistyles](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/unistyles "react-native-unistyles - Level up your React Native Stylesheet!") - Testing Unistyles library to create **theme tokens**, **variant components** and use **media queries**
   - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo using react-native-voice") - Add text in input with **voice recognition**
@@ -54,6 +54,7 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
 - **Node.js**
   - [Node.js Fundamentals](https://github.com/gbdsantos/ignite/tree/master/nodejs/01-nodejs-fundamentals "Register users CRUD application - Node.js Ignite project 01") - A simple User registration CRUD API using pure Node.js and streams concepts
   - [Creating REST API with Node.js](https://github.com/gbdsantos/ignite/tree/master/nodejs/02-creating-rest-api-with-nodejs "Finance tracker - Node.js Ignite project 02") - A simple finance tracker, essentially a CRUD application, built with **Fastify**
+  - [API Node.js with SOLID](https://github.com/gbdsantos/ignite/tree/master/nodejs/03-api-solid "GymPass style application - Node.js Ignite project 03") - A application like GymPass, essentially built with **Fastify** applying SOLID principles, **Prisma ORM** and **PostgreSQL**
 
 - **ReactJS**
   - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
