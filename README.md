@@ -25,14 +25,23 @@
 
 - [C Playground](https://github.com/gbdsantos/c-playground "C Playground") - Code from my C studies during university
 - [Definitive Guide to the AWS Certified Developer - Associate Certification Exam](https://github.com/gbdsantos/aws-certified-developer-associate-roadmap "Cheatsheet for AWS Certified Developer - Associate Certification Exam made to brazilian community") 🇧🇷
-- [Guia Estudo Japonês](https://github.com/gbdsantos/guia-estudo-japones "Curation of useful resources for the brazilian community of Japanese students") 🇧🇷
+- [Japanese Study Guide](https://github.com/gbdsantos/guia-estudo-japones "Curation of useful resources for the brazilian community of Japanese students") 🇧🇷
 - [Ignite Lab (3rd edition)](https://github.com/gbdsantos/reactjs-rocketseat-ignite-lab-3-design-system "Create Design System and use Storybook with React.js") - From Figma to React
-
 - [Python Playground](https://github.com/gbdsantos/python-playground "Python Playground: algorithms and data structures in Python") - Learning about algorithms and data structures in Python
 - [Recognition faces and objects](https://github.com/gbdsantos/recognition-faces-and-objects "recognition faces and objects") - Computer Graphics course work at the university with Python
+- [Rocketseat's Bootcamps](https://github.com/gbdsantos/ignite "Rocketseat's Bootcamps") - Formations liked bootcamp
+
+<br>
+
 - **Node.js**
   - [Brain Agriculture Challenge](https://github.com/gbdsantos/brain-agriculture-challenge "Brain Agriculture Challenge with Express.js") - CRUD application is that a rural platform for managing rural producers made using Express.js, PostgreSQL, Prisma, TypeScript and Vitest
+  - [Node.js Fundamentals](https://github.com/gbdsantos/ignite/tree/master/nodejs/01-nodejs-fundamentals "Register users CRUD application - Node.js Ignite project 01") - A simple User registration CRUD API using pure Node.js and streams concepts
+  - [Creating REST API with Node.js](https://github.com/gbdsantos/ignite/tree/master/nodejs/02-creating-rest-api-with-nodejs "Finance tracker - Node.js Ignite project 02") - A simple finance tracker, essentially a CRUD application, built with **Fastify**
+  - [API Node.js with SOLID](https://github.com/gbdsantos/ignite/tree/master/nodejs/03-api-solid "GymPass style application - Node.js Ignite project 03") - A application like GymPass, essentially built with **Fastify** applying SOLID principles, **Prisma ORM** and **PostgreSQL**
   - [Polls](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/server "Polls system using Node.js, Postgres, Redis, TypeScript, and WebSockets. Development during 14ª edition Next Nevel Week - Expert event.") - Polls system using Node.js, Postgres, Redis, TypeScript, and WebSockets
+
+<br>
+
 - **React Native**
   - [Bottom Sheet using GestureHandler + Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/bottom-sheet "Animated bottom sheet modal with Gesture Handler + Reanimated")
   - [Infinite Slide with Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/infinite-slide-with-reanimated "Infinite Slide with Reanimated using Expo") - Simple infinite slide/carousel using Expo
@@ -40,32 +49,11 @@
   - [Simple Delivery App](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/mobile "A simple food delivery mobile app. Development during 14ª edition Next Nevel Week - Expert event.")
   - [Unistyles](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/unistyles "react-native-unistyles - Level up your React Native Stylesheet!") - Testing Unistyles library to create **theme tokens**, **variant components** and use **media queries**
   - [Voice Search with Expo](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/voice-search "Search by Voice in React Native + Expo using react-native-voice") - Add text in input with **voice recognition**
-- **ReactJS**
-  - [Login page](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone "Skylab landing page clone - Code/drops #50")  - Skylab login screen clone with Chakra UI, ReactJS, **NextJS**
-  - [Note-taking application](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/web "A note-taking application that allows you to save notes through voice, meaning it can transcribe audio into text. Development during 14ª edition Next Nevel Week - Expert event.") - A note-taking application that allows you to save notes through voice, meaning it can transcribe audio into text with **radix-iu** and **tailwindcss**
----
-
-# Ignite
-
-Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for those who already proficiency with programming.
-
-### Tracks
-
-- **Node.js**
-  - [Node.js Fundamentals](https://github.com/gbdsantos/ignite/tree/master/nodejs/01-nodejs-fundamentals "Register users CRUD application - Node.js Ignite project 01") - A simple User registration CRUD API using pure Node.js and streams concepts
-  - [Creating REST API with Node.js](https://github.com/gbdsantos/ignite/tree/master/nodejs/02-creating-rest-api-with-nodejs "Finance tracker - Node.js Ignite project 02") - A simple finance tracker, essentially a CRUD application, built with **Fastify**
-  - [API Node.js with SOLID](https://github.com/gbdsantos/ignite/tree/master/nodejs/03-api-solid "GymPass style application - Node.js Ignite project 03") - A application like GymPass, essentially built with **Fastify** applying SOLID principles, **Prisma ORM** and **PostgreSQL**
-
-- **ReactJS**
-  - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
-  - [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
-
-<br>
 
 <details>
    <summary>
     <span style="font-weight: bold;">
-      React Native
+      React Native Rocketseat's Bootcamp
     </span>
   </summary>
 
@@ -77,6 +65,12 @@ Ignite is an acceleration program liked bootcamp made by Rockeseat, focused for 
 </details>
 
 <br>
+
+- **ReactJS**
+  - [Login page](https://github.com/gbdsantos/reactjs-nextjs-skylab-login-clone "Skylab landing page clone - Code/drops #50")  - Skylab login screen clone with Chakra UI, ReactJS, **NextJS**
+  - [Note-taking application](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/web "A note-taking application that allows you to save notes through voice, meaning it can transcribe audio into text. Development during 14ª edition Next Nevel Week - Expert event.") - A note-taking application that allows you to save notes through voice, meaning it can transcribe audio into text with **radix-iu** and **tailwindcss**
+  - [Ignite Feed](https://github.com/gbdsantos/reactjs-rocketseat-ignite-fundamentals-2022 "Social media application")
+  - [Ignite Feed (TypeScript)](https://github.com/gbdsantos/reactjs-ignite-feed "Social media application")
 
 ---
 
