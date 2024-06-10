@@ -9,11 +9,11 @@
   </a>
 
   <a href="https://expo.dev">
-    <img alt="versão do Expo SDK" src="https://img.shields.io/badge/expo--sdk-v50.0.5-blue?logo=expo&labelColor=20232A&color=5a5a5a">
+    <img alt="versão do Expo SDK" src="https://img.shields.io/badge/expo--sdk-v51.0.12-blue?logo=expo&labelColor=20232A&color=5a5a5a">
   </a>
 
   <a href="https://reactnative.dev">
-    <img alt="versão do React Native" src="https://img.shields.io/badge/react--native-v0.73.2-blue?logo=react&labelColor=20232A&color=5a5a5a">
+    <img alt="versão do React Native" src="https://img.shields.io/badge/react--native-v0.74.2-blue?logo=react&labelColor=20232A&color=5a5a5a">
   </a>
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/gbdsantos/ignite.svg">
