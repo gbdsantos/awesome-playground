@@ -44,6 +44,7 @@
 
 - **React Native**
   - [Bottom Sheet using GestureHandler + Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/bottom-sheet "Animated bottom sheet modal with Gesture Handler + Reanimated")
+  - [Expo & SQLite + Drizzle ORM](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/expo-sqlite-drizzle "Using Expo & SQLite + Drizzle ORM")
   - [Infinite Slide with Reanimated](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/infinite-slide-with-reanimated "Infinite Slide with Reanimated using Expo") - Simple infinite slide/carousel using Expo
   - [Recipes app](https://github.com/gbdsantos/awesome-playground/tree/master/react-native/recipes-app "Recipes app using Expo, Expo Router and Supabase") - Recipe application, where recipe options are listed according to the selected ingredients using **Supabase**
   - [Simple Delivery App](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/mobile "A simple food delivery mobile app. Development during 14ª edition Next Nevel Week - Expert event.")
