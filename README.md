@@ -38,6 +38,8 @@
   - [Node.js Fundamentals](https://github.com/gbdsantos/ignite/tree/master/nodejs/01-nodejs-fundamentals "Register users CRUD application - Node.js Ignite project 01") - A simple User registration CRUD API using pure Node.js and streams concepts
   - [Creating REST API with Node.js](https://github.com/gbdsantos/ignite/tree/master/nodejs/02-creating-rest-api-with-nodejs "Finance tracker - Node.js Ignite project 02") - A simple finance tracker, essentially a CRUD application, built with **Fastify**
   - [API Node.js with SOLID](https://github.com/gbdsantos/ignite/tree/master/nodejs/03-api-solid "GymPass style application - Node.js Ignite project 03") - A application like GymPass, essentially built with **Fastify** applying SOLID principles, **Prisma ORM** and **PostgreSQL**
+  - [API Node.js with Clean Architecture and DDD](https://github.com/gbdsantos/ignite/tree/master/nodejs/04-clean-ddd "Forum style application - Node.js Ignite project 04") - Forum like application, applying Clean Architecture and DDD (Domain Driven Design) principles
+  - [Nest Clean Architecture](https://github.com/gbdsantos/ignite/tree/master/nodejs/05-nest-clean "Forum style application with NestJS - Node.js Ignite project 05") - Applying the NestJS framework with Clean Architecture + DDD in Node.js API Forum style application
   - [Polls](https://github.com/gbdsantos/next-level-week-14-expert/tree/master/server "Polls system using Node.js, Postgres, Redis, TypeScript, and WebSockets. Development during 14ª edition Next Nevel Week - Expert event.") - Polls system using Node.js, Postgres, Redis, TypeScript, and WebSockets
 
 <br>
