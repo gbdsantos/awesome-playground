@@ -1,8 +1,8 @@
- <div align="center">
-    <img alt="Brazilian Fan Parrot" height="40" src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif" >
-    <h1 align="center">
-      Awesome Playground
-   </h1>
+<div align="center">
+  <img alt="Brazilian Fan Parrot" height="40" src="https://cultofthepartyparrot.com/parrots/hd/brazilianfanparrot.gif">
+  <h1 align="center">
+    Awesome Playground
+  </h1>
 </div>
 
 <h4 align="center">
@@ -20,6 +20,13 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/gbdsantos/awesome-playground.svg">
   </a>
 </p>
+
+<div align="center">
+  <img alt="Java icon" src="./assets/java.png" style="height: 50%; width: 50%;"  />
+</div>
+
+- [Logistics Management](https://github.com/gbdsantos/java-logistics-management "Java Logistics Management") - Logistics management service for registering and listing shipment units
+- [Marketplace](https://github.com/gbdsantos/java-ticketing-system "Marketplace | Java Ticketing System") -  A demo Spring Boot application showcasing a modular monolith architecture with multiple independent datasources
 
 ## :school_satchel: Miscellaneous
 
